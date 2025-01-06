@@ -1,0 +1,603 @@
+,calle,barrio,municipio,tipo_vivienda,titulo,habitaciones,metros_cuadrados,aseos,planta,descripcion,etiquetas,garaje,precio
+0,Ático en Carrer 30,La Canyada - La Cañada (Paterna),Paterna,Piso,"Ático en Carrer 30, 32",2.0,99,,,"Tipo 16. Ático en un inmueble de obra nueva de 99 m2 de superficie construida y situado en la zona de Paterna. Está estructurado en 2 habitaciones, 1 baño completo y terraza de 14.80 m2. Aporta como extras ascensor.",['Piso'],No,280000.0
+1,Ático en calle de los Molinos,Santa Rita-Alborgí (Paterna),Paterna,Piso,"Ático en calle de los Molinos,  s/n",3.0,218,2.0,,"Tipo D. 10º-39. Ático en un inmueble de obra nueva de 218 m2 de superficie construida y situado en la zona de Paterna, acomodado en planta 10. Está estructurado en 3 habitaciones, 2 baños completos y terraza de 113,13 m2. Aporta como extras garaje y trastero.",['Piso'],Sí,376500.0
+2,Piso en Carrer Miguel Hernández,Centre (Paterna),Paterna,Piso,"Piso en Carrer Miguel Hernández, 10",3.0,86,2.0,,"Vivienda 12. Piso en una finca de obra nueva de 86 m2 de superficie construida y emplazado en la zona de Paterna. Está dispuesto en 3 habitaciones, 2 baños completos y terraza de 7.87 m2. Cuenta como extras ascensor.",['Piso'],No,244000.0
+3,Piso en calle Federica Montseny,Quart de Poblet,,Piso,"Piso en calle Federica Montseny,  S/N",2.0,77,,,"V001-esc. 1 - pb - a. Piso en un inmueble de obra nueva de 77 m² de superficie construida y situado en la zona de quart de poblet,...",['Piso'],No,208000.0
+4,Chalet en Alameda Park,Alameda Parc (Manises),Manises,Chalet,Chalet en Alameda Park,5.0,280,3.0,,"Casa o chalet en venta en calle concheta, alameda park
+
+J.a.f. Inmobiliaria dispone en exclusiva de éste chalet en la urbanización...",['Chalet'],No,273000.0
+5,Piso en calle Federica Montseny,Quart de Poblet,,Piso,"Piso en calle Federica Montseny,  S/N",,65,,5ª planta,V041-esc. 1 - p05 - f. Piso en un inmueble de obra nueva de 765  m² de superficie construida y situado en la zona de quart de pobl...,['Piso'],No,178000.0
+6,Piso en Carrer Miguel Hernández,Centre (Paterna),Paterna,Piso,"Piso en Carrer Miguel Hernández, 10",3.0,86,2.0,,Vivienda 9. Piso en una finca de obra nueva de 86 m² de superficie construida y emplazado en la zona de paterna. Está dispuesto en...,['Piso'],No,239900.0
+7,Piso en Carrer de les Roses,Centre (Manises),Manises,Piso,"Piso en Carrer de les Roses, 20",3.0,114,2.0,2ª planta,"Escalera 5-2ºb. Piso en una finca de obra nueva de 114 m² de superficie construida y emplazado en la zona de manises, posicionado ...",['Piso'],No,246000.0
+8,Chalet unifamiliar en La Canyada - La Cañada,La Canyada - La Cañada (Paterna),Paterna,Chalet,Chalet unifamiliar en La Canyada - La Cañada,3.0,85,,,"Chalet en venta en la localidad de la cañada, cercana a la población, al transporte público y a la zona comercial, con buenos acce...",['Chalet'],No,295000.0
+9,Piso en La Canyada - La Cañada,La Canyada - La Cañada (Paterna),Paterna,Piso,Piso en La Canyada - La Cañada,5.0,240,3.0,,"Venta de edificio, en su totalidad, en la cañada.
+Excelente situación en el centro del pueblo, próximo al metro, comercios, hospit...",['Piso'],No,510000.0
+10,Casa en Santa Rita-Alborgí,Santa Rita-Alborgí (Paterna),Paterna,Casa,Casa en Santa Rita-Alborgí,3.0,205,3.0,,Primer grupo vivendia pone a la venta adosado en paterna - zona los molinoseste impresionante adosado de 200 m² se encuentra en la...,['Casa'],No,299000.0
+11,Piso en Carrer de les Roses,Centre (Manises),Manises,Piso,"Piso en Carrer de les Roses, 20",3.0,107,2.0,3ª planta,"Obras ya iniciadas
+En rosas20 te ofrecemos una estupenda oportunidad de mejorar tu calidad de vida disfrutando de un entorno armon...",['Piso'],No,246000.0
+12,Piso en El Mercat,El Mercat (Manises),Manises,Piso,Piso en El Mercat,2.0,60,,1ª planta,"Referencia: mis – 26.
+
+Tecnocasa vende en exclusiva.
+
+Piso en finca del año 1960, orientación oeste. Exterior con balcon.
+
+La vivi...",['Piso'],No,110000.0
+13,Piso en Santa Rita-Alborgí,Santa Rita-Alborgí (Paterna),Paterna,Piso,Piso en Santa Rita-Alborgí,3.0,118,2.0,8ª planta,Primer grupo vivendia pone a la venta este magnífico ático en una de las zonas más exclusivas y en expansión de paterna. Con todos...,['Piso'],No,475000.0
+14,Piso en Carrer de Paterna,El Carme (Manises),Manises,Piso,Piso en Carrer de Paterna,3.0,117,2.0,3ª planta,""" "" "" "" ""grupo inmobiliario selling house te propone una gran oportunidad "" "" "" "" ""
+
+Ubicado en manises a 1 minuto del hospital y...",['Piso'],No,225000.0
+15,Chalet en La Cañada,La Canyada - La Cañada (Paterna),Paterna,Chalet,Chalet en La Cañada,4.0,439,4.0,,"Excelente  chalet de lujo en venta en el plantío, la cañada,  a tan solo 10 min del aeropuerto y a  15 min de valencia centro.  Ub...",['Chalet'],No,1250000.0
+16,Piso en calle Dels Pins & Carrer de Les Roses,Santa Rita-Alborgí (Paterna),Paterna,Piso,"Piso en calle Dels Pins & Carrer de Les Roses,  S/N",3.0,107,2.0,4ª planta,"Escalera a, 4º c. Piso en una finca de obra nueva de 107 m² de superficie construida y emplazado en la zona de paterna, posicionad...",['Piso'],No,223000.0
+17,Casa adosada en Avinguda de Miguel Hernández,Aldaia,,Casa,Casa adosada en Avinguda de Miguel Hernández,3.0,201,,,"Esta impresionante propiedad ofrece una combinación única de confort, privacidad y seguridad. Ventanas de pvc con climalit, oscilo...",['Casa'],No,360000.0
+18,Casa en Centro del Pueblo,Quart de Poblet,,Casa,Casa en Centro del Pueblo,3.0,265,,,"Disponemos en exclusiva  de una casa independiente  en dos alturas ,  la panta baja tiene 153 metros  es diáfana con muchísimas po...",['Casa'],No,250000.0
+19,Piso en calle Francesc Ferrer Pastor,El Mercat (Manises),Manises,Piso,"Piso en calle Francesc Ferrer Pastor,  s/n",4.0,147,2.0,2ª planta,"Planta 2, escalera 1, puerta c.  Piso en un edificio de obra nueva de 147 m² de superficie construida y ubicado en la zona de soto...",['Piso'],No,299000.0
+20,Piso en Centro,Centre (Manises),Manises,Piso,Piso en Centro,4.0,120,,1ª planta,"Oportunidad de piso exterior con mucha luz. Dispone de 4 amplios dormitorios, un amplio salón lleno de luz y 1 baño.
+La cocina est...",['Piso'],No,146000.0
+21,Piso en calle Federica Montseny,Quart de Poblet,,Piso,"Piso en calle Federica Montseny,  S/N",2.0,77,,,"V001-Esc. 1 - PB - A. Piso en un inmueble de obra nueva de 77 m2 de superficie construida y situado en la zona de Quart de Poblet, acomodado en planta baja. Está estructurado en 2 habitaciones, 1 baño completo y terraza. Proporciona como acabados y suelo parquet. Aporta como extras garaje y trastero.",['Piso'],Sí,208000.0
+22,Piso en calle de los Santos Justo y Pastor,Alameda Parc (Manises),Manises,Piso,Piso en calle de los Santos Justo y Pastor,2.0,53,2.0,4ª planta,"Piso en manises. La vivienda se distribuye en dos habitaciones, un baño, salón-comedor y cocina.
+
+“el precio anunciado no es vincu...",['Piso'],No,60000.0
+23,Piso en calle Dels Pins & Carrer de Les Roses,Santa Rita-Alborgí (Paterna),Paterna,Piso,"Piso en calle Dels Pins & Carrer de Les Roses,  S/N",3.0,107,2.0,3ª planta,"Escalera b, 3º e. Piso en un edificio de obra nueva de 107 m² de superficie construida y ubicado en la zona de paterna, enclavado ...",['Piso'],No,235000.0
+24,Piso en calle Dels Pins & Carrer de Les Roses,Santa Rita-Alborgí (Paterna),Paterna,Piso,"Piso en calle Dels Pins & Carrer de Les Roses,  S/N",3.0,106,2.0,1ª planta,"Escalera a, 1º a. Piso en un inmueble de obra nueva de 106 m² de superficie construida y situado en la zona de paterna, acomodado ...",['Piso'],No,220000.0
+25,Ático en Paterna,Santa Rita-Alborgí (Paterna),Paterna,Piso,Ático en Paterna,3.0,125,2.0,,"Ponemos su disposicion con ref: 11002 vivienda atico en paterna, distribuido en 3 habitaciones, 2 baños, cocina independiente , te...",['Piso'],No,230000.0
+26,Apartamento en Carrer de Rodrigo Botet,El Mercat (Manises),Manises,Piso,Apartamento en Carrer de Rodrigo Botet,4.0,72,,5ª planta,"Este encantador piso de 72 m² es perfecto como hogar o inversión para alquiler, ubicado en pleno centro de manises, con vecinos es...",['Piso'],No,114000.0
+27,Casa en Alameda Parc,Alameda Parc (Manises),Manises,Casa,Casa en Alameda Parc,3.0,236,,,"Te gustaría vivir en plena naturaleza a solo 15 minutos de valencia, se vende estupenda casa con terreno en la urbanización la pre...",['Casa'],No,240000.0
+28,Chalet en Urb. Lamallá,Zona Aeroport (Manises),Manises,Chalet,Chalet en Urb. Lamallá,3.0,170,,,"¡Oportunidad única! 
+
+Chalet independiente en collado - la malla por solo 220.000€.
+
+Esta magnífica vivienda, construida en 1983,...",['Chalet'],No,220000.0
+29,Piso en Aldaia,Aldaia,,Piso,Piso en Aldaia,,70,,,"Increible vivienda reformada con amplia terraza en la localidad de aldaya.
+Piso en primera altura sin ascensor, 70 mts, 1 habitaci...",['Piso'],No,135000.0
+30,Piso en calle Francesc Ferrer Pastor,El Mercat (Manises),Manises,Piso,"Piso en calle Francesc Ferrer Pastor,  s/n",3.0,100,2.0,1ª planta,"Planta 1, escalera 1, puerta a.  Piso en un edificio de obra nueva de 100 m² de superficie construida y ubicado en la zona de soto...",['Piso'],No,255000.0
+31,Piso en calle Francesc Ferrer Pastor,El Mercat (Manises),Manises,Piso,"Piso en calle Francesc Ferrer Pastor,  s/n",2.0,79,2.0,4ª planta,"Planta 4, escalera 3, puerta c.  Piso en un edificio de obra nueva de 79 m² de superficie construida y ubicado en la zona de soto ...",['Piso'],No,215000.0
+32,Piso en El Mercado,El Mercat (Manises),Manises,Piso,Piso en El Mercado,4.0,131,2.0,1ª planta,Este magnífico piso en la mejor zona de manises ofrece un ambiente acogedor y luminoso que puede mejorar tus emociones diarias y t...,['Piso'],No,243000.0
+33,Loft en calle de Coladores,Aldaia,,,Loft en calle de Coladores,,46,,,"Habitale presenta este loft/oficina en aldaia, zona centro de aldaia, próximo al ayuntamiento de aldaia. 
+Importante: en el catast...",[],No,49000.0
+34,Piso en calle de los Pins,Santa Rita-Alborgí (Paterna),Paterna,Piso,Piso en calle de los Pins,,136,,2ª planta,"Inmueble sin posesión y sin acceso al interior. Las fotografías del interior y las características del activo, pueden no ajustarse...",['Piso'],No,175000.0
+35,Piso en calle Cañada Roger de Flor,Quart de Poblet,,Piso,Piso en calle Cañada Roger de Flor,,86,,,"Inmueble sin posesión y sin acceso al interior. Las fotografías del interior y las características del activo, pueden no ajustarse...",['Piso'],No,93000.0
+36,Piso en calle Ceramista Alfonso Blat,Alameda Parc (Manises),Manises,Piso,Piso en calle Ceramista Alfonso Blat,2.0,101,,,"Inmueble en cesion de remate. Oportunidad para inversores y clientes especializados de adquirir esta propiedad a un precio único.
+...",['Piso'],No,125000.0
+38,Piso en calle de los Molinos,Santa Rita-Alborgí (Paterna),Paterna,Piso,Piso en calle de los Molinos,,79,,1ª planta,"¿Buscas tu nuevo hogar en paterna? Nosotros lo tenemos.
+
+Excelente oportunidad de adquirir este piso agradable y luminoso que ofre...",['Piso'],No,105000.0
+39,Ático en Centre,Centre (Paterna),Paterna,Piso,Ático en Centre,,65,,,"Atico duplex con ascensor y terraza en paterna
+Atico en tercera altura con ascensor, 65 mts, 1 habitacion, 1 baño seminuevo con ba...",['Piso'],No,139900.0
+40,Chalet en Entrecruces,La Canyada - La Cañada (Paterna),Paterna,Chalet,Chalet en Entrecruces,4.0,190,2.0,,"Chalet independiente en altura, 500 m² de parcela y 190 m²c de vivienda ( sin contar los metros del sótano ); con dos plantas más ...",['Chalet'],No,475000.0
+41,Piso en Carrer Miguel Hernández,Centre (Paterna),Paterna,Piso,"Piso en Carrer Miguel Hernández, 10",3.0,88,2.0,,Vivienda 4. Piso en una finca de obra nueva de 88 m² de superficie construida y emplazado en la zona de paterna. Está dispuesto en...,['Piso'],No,238000.0
+42,Casa en Aldaia,Aldaia,,Casa,Casa en Aldaia,4.0,218,,,"Os presentamos esta oportunidad en aldaia, una casa de pueblo a pie de calle con mucho encanto. 
+Techos altos, espacios al aire li...",['Casa'],No,179000.0
+43,Piso en Avda. San Onofre,Quart de Poblet,,Piso,Piso en Avda. San Onofre,2.0,80,2.0,1ª planta,Ref 2534 se vende  magnifica vivienda seminueva en la zona de la avenida san onofre cercana a todos los servicios necesarios para ...,['Piso'],No,195000.0
+44,Ático en Valterna-Terramelar,Valterna-Terramelar (Paterna),Paterna,Piso,Ático en Valterna-Terramelar,6.0,240,5.0,,"Te presentamos una espectacular vivienda recientemente reformada, que combina elegancia y funcionalidad en un entorno ideal. Esta...",['Piso'],No,750000.0
+45,Piso en Carrer 30,La Canyada - La Cañada (Paterna),Paterna,Piso,"Piso en Carrer 30, 32",3.0,104,2.0,,Tipo 15. Piso en una finca de obra nueva de 104 m² de superficie construida y emplazado en la zona de paterna. Está dispuesto en 3...,['Piso'],No,317000.0
+46,Piso en calle de Pablo Picasso,Quart de Poblet,,Piso,Piso en calle de Pablo Picasso,,131,,,"Inmueble sin posesión y sin acceso al interior. Las fotografías del interior y las características del activo, pueden no ajustarse...",['Piso'],No,103000.0
+47,Piso en Grupo de La Merced,Centre (Paterna),Paterna,Piso,Piso en Grupo de La Merced,,64,,4ª planta,"Inmueble sin posesión y sin acceso al interior. Las fotografías del interior y las características del activo, pueden no ajustarse...",['Piso'],No,31455.0
+48,Chalet en calle calle de Sierra de Bernia,Casas Verdes-Mas del Rosari (Paterna),Paterna,Chalet,Chalet en calle calle de Sierra de Bernia,6.0,168,2.0,,"Encantador chalet de dos alturas con altillo, ubicado en una de las zonas más exclusivas de valencia, con excelente accesibilidad ...",['Chalet'],No,790000.0
+49,Casa adosada en El Plantio,La Canyada - La Cañada (Paterna),Paterna,Casa,Casa adosada en El Plantio,5.0,216,2.0,,"Vivienda adosada en la cañada, ubicada en una de sus mejores zonas, el plantío.
+
+ El plantío está considerada como una de las zona...",['Casa'],No,385000.0
+50,Ático en calle de los Molinos,Santa Rita-Alborgí (Paterna),Paterna,Piso,"Ático en calle de los Molinos,  s/n",3.0,190,2.0,,"Tipo a. 10º-37. Ático en un inmueble de obra nueva de 190 m² de superficie construida y situado en la zona de paterna, acomodado e...",['Piso'],No,358500.0
+51,Piso en Quart de Poblet,Quart de Poblet,,Piso,Piso en Quart de Poblet,3.0,91,,,"*****oportunidad sólo para inversores profesionales******. 
+***** inmueble ocupado sin posesión***** . 
+***** por su situación no ...",['Piso'],No,93000.0
+52,Piso en calle Federica Montseny,Quart de Poblet,,Piso,"Piso en calle Federica Montseny,  S/N",2.0,95,2.0,7ª planta,"V059-Esc. 1 - P07 - H. Piso en un inmueble de obra nueva de 95 m2 de superficie construida y situado en la zona de Quart de Poblet, acomodado en planta 7. Está estructurado en 2 habitaciones, 2 baños completos y terraza. Proporciona como acabados y suelo parquet. Aporta como extras garaje y trastero.",['Piso'],Sí,259000.0
+53,Chalet en Aldaia,Aldaia,,Chalet,Chalet en Aldaia,4.0,215,2.0,,"J 9751 ref . Se vende casa/chalet adosado en venta en aldaia
+Disponibilidad inmediata
+Vivenda vacia 
+Garaje y trastero oncluidos e...",['Chalet'],Sí,285000.0
+54,Ático en Plaza Rafael Atard,Alameda Parc (Manises),Manises,Piso,Ático en Plaza Rafael Atard,3.0,130,2.0,,"¡Descubre tu oasis urbano en manises! Atico en venta en manises, con piscina.
+
+Agencia mediterránea te presenta este espectacular ...",['Piso'],No,312000.0
+55,Piso en calle de Pablo Picasso,Quart de Poblet,,Piso,Piso en calle de Pablo Picasso,,96,,,"Inmueble sin posesión y sin acceso al interior. Las fotografías del interior y las características del activo, pueden no ajustarse...",['Piso'],No,75000.0
+56,Piso en Valterna,Valterna-Terramelar (Paterna),Paterna,Piso,Piso en Valterna,4.0,110,2.0,3ª planta,"Amplio piso en terramelar de 3 habitaciones + 1 doble, con trastero 
+
+Este piso, ubicado en la tranquila zona de terramelar, ofrec...",['Piso'],No,210000.0
+57,Piso en calle de los Molinos,Santa Rita-Alborgí (Paterna),Paterna,Piso,"Piso en calle de los Molinos,  s/n",3.0,120,2.0,9ª planta,"Tipo b. 9º. Piso en un inmueble de obra nueva de 120 m² de superficie construida y situado en la zona de paterna, acomodado en pla...",['Piso'],No,269000.0
+58,Piso en Manises - Polígono del Aeropuerto,Zona Aeroport (Manises),Manises,Piso,Piso en Manises - Polígono del Aeropuerto,,85,,,"Loft-oficina en planta 1ª  con ascensor situada en el polígono industrial aeropuerto del municipio de manises, valencia. Cuenta co...",['Piso'],No,124000.0
+59,Chalet en Cruz de Gracia,Casas Verdes-Mas del Rosari (Paterna),Paterna,Chalet,Chalet en Cruz de Gracia,4.0,353,3.0,,"Person inmobiliaria presenta este magnífico chalet independiente ubicado en la urbanización privada cruz de gracia.
+
+La propiedad ...",['Chalet'],No,950000.0
+60,Casa adosada en Carrer del Puig,Casas Verdes-Mas del Rosari (Paterna),Paterna,Casa,Casa adosada en Carrer del Puig,4.0,309,3.0,,"Agencia mediterránea les ofrece esta fantástica vivienda adosada de 251m², construida en el año 2008 y en muy buen estado. Ubicada...",['Casa'],No,395000.0
+61,Casa en calle Archiduque Carlos,Aldaia,,Casa,Casa en calle Archiduque Carlos,,174,,,"Adosado ocupado por persona sin justo título (antiguo deudor hipotecario)
+Este inmueble debido a su estado ocupacional no admite v...",['Casa'],No,190000.0
+62,Piso en Aldaia,Aldaia,,Piso,Piso en Aldaia,4.0,126,,5ª planta,"Descripción de la viviendapiso en venta en aldaia, ubicado en la quinta planta de un edificio construido en 1980, que se encuentra...",['Piso'],No,189000.0
+63,Chalet en Godella,Casas Verdes-Mas del Rosari (Paterna),Paterna,Chalet,Chalet en Godella,4.0,338,4.0,,"¡La descripción de esa casa suena espectacular! Ubicada en campolivar, parece tener todo lo que alguien podría desear: un diseño m...",['Chalet'],No,1550000.0
+64,Piso en Todo Dulce,Quart de Poblet,,Piso,Piso en Todo Dulce,2.0,94,,3ª planta,"Fantástica vivienda situada en una 3 planta con ascensor la vivienda dispone de 2 habitaciones, 1 baño con amplio plato de ducha r...",['Piso'],No,160000.0
+65,Chalet en Grupo de La Merced,Centre (Paterna),Paterna,Chalet,Chalet en Grupo de La Merced,2.0,64,,,"Inmueble  en venta -
+ “esta propiedad está ocupada por terceros. No se puede visitar. No apta para compradores que requieran fina...",['Chalet'],No,31455.0
+66,Dúplex en Centro,Centre (Manises),Manises,Piso,Dúplex en Centro,4.0,150,2.0,3ª planta,Se vende fantastico duplex de 150m² en edificio con complejo en el centro de manises. Vivienda de principios del 2000  distribuida...,['Piso'],No,230000.0
+67,Chalet en Zona Aeroport,Zona Aeroport (Manises),Manises,Chalet,Chalet en Zona Aeroport,3.0,213,2.0,,"¡Descubre el hogar de tus sueños en una ubicación privilegiada! Este impresionante chalet independiente urbano, "" el chalet da a d...",['Chalet'],No,300000.0
+68,Casa pareada en Paterna,Casas Verdes-Mas del Rosari (Paterna),Paterna,Casa,Casa pareada en Paterna,4.0,217,4.0,,"(3 plazas de garaje incluidas en el precio) este chalet pareado en paterna, cercano a valencia y campolivar, ofrece una construcci...",['Casa'],Sí,530000.0
+69,Piso en Carrer de les Roses,Centre (Manises),Manises,Piso,"Piso en Carrer de les Roses, 20",2.0,81,2.0,6ª planta,"Inicio obra febrero 2024
+
+En rosas20 te ofrecemos una estupenda oportunidad de mejorar tu calidad de vida disfrutando de un entorn...",['Piso'],No,280000.0
+70,Chalet en Cruz de Gracia,Casas Verdes-Mas del Rosari (Paterna),Paterna,Chalet,Chalet en Cruz de Gracia,5.0,356,4.0,,"¡Descubre tu oasis privado en cruz de gracia!
+
+Agencia mediterránea te presenta esta magnífica villa independiente en venta, situa...",['Chalet'],No,798000.0
+71,Chalet en La Cañada,La Canyada - La Cañada (Paterna),Paterna,Chalet,Chalet en La Cañada,4.0,219,4.0,,"De estilo arquitectónico, con un hall de entrada y un luminoso salón comedor de planta abierta, hace que la vivienda cuente con lu...",['Chalet'],No,880000.0
+72,Chalet en calle Carrer Sant Roc,Aldaia,,Chalet,"Chalet en calle Carrer Sant Roc, nº 11",3.0,304,2.0,,"No visitable , no hipotecable
+Inmobiliaria inmobanco presenta esta casa en venta ubicada en la calle sant roc 11, aldaya, con una ...",['Chalet'],No,265000.0
+73,Piso en calle de Antonio Machado,Santa Rita-Alborgí (Paterna),Paterna,Piso,Piso en calle de Antonio Machado,,85,,,Inmueble para compra de crédito. Oportunidad para inversores y clientes especializados de adquirir créditos con garantía hipotecar...,['Piso'],No,
+74,Chalet en calle Clsan Roque 11,Aldaia,,Chalet,Chalet en calle Clsan Roque 11,,292,,,"Casa independiente de 300 metros, 4 habitaciones, 1 baño.
+Muy bien ubicado y amplio.
+Muy buena zona.
+Actualmente esta alquilado.",['Chalet'],No,265000.0
+75,Piso en calle de la Unión,Aldaia,,Piso,Piso en calle de la Unión,,103,,2ª planta,"Piso ocupado por persona sin justo título (antiguo deudor hipotecario)
+Este inmueble debido a su estado ocupacional no admite visi...",['Piso'],No,90000.0
+76,Chalet en La Cañada,La Canyada - La Cañada (Paterna),Paterna,Chalet,Chalet en La Cañada,2.0,78,,,"Agencia mediterránea tiene el placer de presentaros esta encantadora casa construida en 1958, ubicada en la tranquila y privilegia...",['Chalet'],No,245000.0
+77,Piso en calle Clmaestro Adolfo Saez 24,Aldaia,,Piso,Piso en calle Clmaestro Adolfo Saez 24,,72,,,Inmueble alquilado y sin acceso al interior. Las fotografías del interior pueden no ajustarse al estado actual. ¿Estás interesado ...,['Piso'],No,100000.0
+78,Chalet en Manises - Centro Ciudad,Centre (Manises),Manises,Chalet,Chalet en Manises - Centro Ciudad,4.0,210,3.0,,"J 9779 ref ¡Bienvenidos a tu casa de ensueño en manises! 
+Esta impresionante casa/chalet independiente de diseño moderno y funcion...",['Chalet'],No,295000.0
+79,Piso en Carrer de Lepanto,Centre (Manises),Manises,Piso,Piso en Carrer de Lepanto,,67,,,,['Piso'],No,102500.0
+80,Ático en Aldaia,Aldaia,,Piso,Ático en Aldaia,3.0,154,3.0,,"**** senyera inmobiliaria **** pone a la venta espectacular ático dúplex en aldaia, justo en la frontera de aldaia/alaquás.
+
+La vi...",['Piso'],No,264000.0
+81,Chalet unifamiliar en calle Vent de Ponent,Zona Aeroport (Manises),Manises,Chalet,"Chalet unifamiliar en calle Vent de Ponent, 3",4.0,120,,,"No inmobiliarias, no contestaré. Sin comisión inmobiliaria. 125 m² la casa. Vendo chalet con preciosas vistas al mar y a la sierra...",['Chalet'],No,245000.0
+82,Chalet en calle Vent de Ponent,Zona Aeroport (Manises),Manises,Chalet,Chalet en calle Vent de Ponent,4.0,460,3.0,,"Es un chalet seminuevo con cocina independiente, 4 habitaciones, 3 baños y 1 aseo, amplio salón  comedor, terraza, balcón, traster...",['Chalet'],No,750000.0
+83,Piso en Carrer de la Melissa,Valterna-Terramelar (Paterna),Paterna,Piso,"Piso en Carrer de la Melissa, 42",3.0,135,2.0,4ª planta,"ESC-C-P4-A. Piso en un inmueble de obra nueva de 135 m2 de superficie construida y situado en la zona de Paterna, acomodado en planta 4. Está estructurado en 3 habitaciones y 2 baños completos. Aporta como extras ascensor, garaje y trastero.",['Piso'],Sí,333000.0
+84,Piso en Avda. San Onofre,Quart de Poblet,,Piso,Piso en Avda. San Onofre,4.0,115,2.0,4ª planta,"Ref 2535 se vende amplia vivienda con garaje incluido en el precio en excelente ubicacion cercana a  la avenida san onofre, comerc...",['Piso'],Sí,280000.0
+85,Chalet en La Cañada,La Canyada - La Cañada (Paterna),Paterna,Chalet,Chalet en La Cañada,4.0,160,3.0,,"Le presentamos una serie exclusiva de modernas villas en une de los mejores zonas de valencia la cañada. 
+
+*características:*
+- cu...",['Chalet'],No,650000.0
+86,Casa pareada en Urb. Campolivar,Casas Verdes-Mas del Rosari (Paterna),Paterna,Casa,Casa pareada en Urb. Campolivar,3.0,236,3.0,,Agencia mediterránea te presenta este excelente chalet adosado en residencial privado compuesto por 12 viviendas en un entorno ini...,['Casa'],No,480000.0
+87,Dúplex en Manises - Centro Ciudad,Centre (Manises),Manises,Piso,Dúplex en Manises - Centro Ciudad,4.0,140,2.0,3ª planta,"J 8753 ref. Descubre tu nuevo hogar en este espectacular dúplex de 150m² distribuidos en dos plantas, ubicado en una zona tranquil...",['Piso'],No,240000.0
+88,Ático en Carrer de les Roses,Centre (Manises),Manises,Piso,"Ático en Carrer de les Roses, 20",2.0,87,2.0,,"Escalera 1-6º(ático)-c. Ático en un edificio de obra nueva de 87 m² de superficie construida y ubicado en la zona de manises, encl...",['Piso'],No,285000.0
+90,Chalet en La Canyada - La Cañada,La Canyada - La Cañada (Paterna),Paterna,Chalet,Chalet en La Canyada - La Cañada,5.0,332,5.0,,Tenemos al venta mangnifico adosado en el plantío (la cañada) de 332 m² sobre una parcela de 550m² consta de 5 habitaciones todas ...,['Chalet'],No,445000.0
+91,Piso en calle 25 Dabril,Aldaia,,Piso,Piso en calle 25 Dabril,,56,,,,['Piso'],No,110000.0
+92,Ático en calle de la Orenga,Valterna-Terramelar (Paterna),Paterna,Piso,Ático en calle de la Orenga,3.0,148,3.0,,"002ore347 espectacular ático con garaje, piscina y vistas despejadas
+
+Imagina un hogar donde la amplitud se une a la elegancia, un...",['Piso'],Sí,347000.0
+93,Piso en Carrer de Ciudad Real,Santa Rita-Alborgí (Paterna),Paterna,Piso,"Piso en Carrer de Ciudad Real, 18",3.0,136,2.0,1ª planta,"Totalmente reformado.  Cocina de 30m², galería interior de 26m², 3 habitaciones y 2 baños, trastero y comedor con balcón.",['Piso'],No,180000.0
+94,Ático en calle de la Orenga,Valterna-Terramelar (Paterna),Paterna,Piso,Ático en calle de la Orenga,3.0,147,3.0,,"002ore347 espectacular ático con garaje, piscina y vistas despejadas
+
+Imagina un hogar donde la amplitud se une a la elegancia, un...",['Piso'],Sí,347000.0
+95,Piso en calle Federica Montseny,Quart de Poblet,,Piso,"Piso en calle Federica Montseny,  S/N",3.0,109,2.0,7ª planta,V052-esc. 1 - p07 - a. Piso en un inmueble de obra nueva de 109 m² de superficie construida y situado en la zona de quart de poble...,['Piso'],No,286000.0
+96,Piso en Carrer de la Melissa,Valterna-Terramelar (Paterna),Paterna,Piso,"Piso en Carrer de la Melissa, 42",4.0,152,2.0,1ª planta,"Esc-c-p1-e. Piso en un inmueble de obra nueva de 152 m² de superficie construida y situado en la zona de paterna, acomodado en pla...",['Piso'],No,384000.0
+97,Piso en calle Federica Montseny,Quart de Poblet,,Piso,"Piso en calle Federica Montseny,  S/N",3.0,115,2.0,,V003-esc. 1 - pb - c. Piso en un inmueble de obra nueva de 115 m² de superficie construida y situado en la zona de quart de poblet...,['Piso'],No,274000.0
+98,Piso en calle Federica Montseny,Quart de Poblet,,Piso,"Piso en calle Federica Montseny,  S/N",3.0,117,2.0,5ª planta,V042-esc. 1 - p05 - g. Piso en un inmueble de obra nueva de 117 m² de superficie construida y situado en la zona de quart de poble...,['Piso'],No,293000.0
+99,Casa en Carrer del Doctor Machi,Centre (Paterna),Paterna,Casa,Casa en Carrer del Doctor Machi,4.0,90,2.0,,"002dma260  casa semireformada con 2 terrazas y barbacoa  cerca del metro 
+
+Financiación hasta 100% (sujeto a aprobación por entida...",['Casa'],No,260000.0
+101,Ático en Carrer Minglanilla,Aldaia,,Piso,Ático en Carrer Minglanilla,2.0,160,2.0,,"008min189. Ático seminuevo y amplio con bonita terraza
+
+Amplio y luminoso, cada rincón ha sido diseñado para ofrecer comodidad y e...",['Piso'],No,183500.0
+102,Ático en Carrer Minglanilla,Aldaia,,Piso,Ático en Carrer Minglanilla,2.0,161,2.0,,"008min189. Ático seminuevo y amplio con bonita terraza
+
+Amplio y luminoso, cada rincón ha sido diseñado para ofrecer comodidad y e...",['Piso'],No,183500.0
+103,Casa en Carrer del Doctor Machi,Centre (Paterna),Paterna,Casa,Casa en Carrer del Doctor Machi,4.0,89,2.0,,"002dma260  casa semireformada con 2 terrazas y barbacoa  cerca del metro 
+
+Financiación hasta 100% (sujeto a aprobación por entida...",['Casa'],No,260000.0
+104,Piso en Carrer de la Melissa,Valterna-Terramelar (Paterna),Paterna,Piso,"Piso en Carrer de la Melissa, 42",3.0,163,2.0,1ª planta,"Esc-a-p1-b. Piso en un inmueble de obra nueva de 163 m² de superficie construida y situado en la zona de paterna, acomodado en pla...",['Piso'],No,363000.0
+105,Piso en Carrer de la Melissa,Valterna-Terramelar (Paterna),Paterna,Piso,"Piso en Carrer de la Melissa, 42",3.0,145,2.0,1ª planta,"Esc.b-p1-c. Piso en un inmueble de obra nueva de 145 m² de superficie construida y situado en la zona de paterna, acomodado en pla...",['Piso'],No,353000.0
+106,Casa en Alborgí,Centre (Paterna),Paterna,Casa,Casa en Alborgí,3.0,153,2.0,,"002rrq250  hazla a tu gusto con terraza
+ 
+ Financiación 100% vivienda (con requisitos mínimos).
+
+ 
+ Hazla a tu gusto con terraza. ...",['Casa'],No,250000.0
+107,Chalet en Campolivar,Casas Verdes-Mas del Rosari (Paterna),Paterna,Chalet,Chalet en Campolivar,6.0,210,2.0,,"022ser790 ¡Cerca del heron city! Chalet con piscina, garaje, barbacoa y jardin 
+
+Facilidades de financiación (sujeto a aprobación ...",['Chalet'],Sí,790000.0
+108,Chalet en Campolivar,Casas Verdes-Mas del Rosari (Paterna),Paterna,Chalet,Chalet en Campolivar,6.0,211,2.0,,"022ser790 ¡Cerca del heron city! Chalet con piscina, garaje, barbacoa y jardin 
+
+Facilidades de financiación (sujeto a aprobación ...",['Chalet'],Sí,790000.0
+110,Piso en Carrer de Santa Aurora,Casas Verdes-Mas del Rosari (Paterna),Paterna,Piso,"Piso en Carrer de Santa Aurora, 2",3.0,100,2.0,,"Piso en calle santa aurora,100m² más 19m² de elementos comunes. Ascensor, 3 habitaciones, recibidor, pasillo, comedor con mueble t...",['Piso'],No,184000.0
+111,Casa en Alborgí,Centre (Paterna),Paterna,Casa,Casa en Alborgí,3.0,154,2.0,,"002rrq250  hazla a tu gusto con terraza
+ 
+ Financiación 100% vivienda (con requisitos mínimos).
+
+ 
+ Hazla a tu gusto con terraza. ...",['Casa'],No,250000.0
+112,Casa en Alaquàs,Alaquàs,,Casa,Casa en Alaquàs,5.0,326,3.0,,"Casa con tres alturas en Alaquàs situada en una zona con casa de estilo Mediterráneo. En la planta baja se encuentra el garaje con entrada por la calle trasera a la puerta principal, desde el garaje se accede a una gran salón donde se encuentran las escaleras de acceso a la primera planta. En la planta primera encontramos un gran salón comedor, también encontramos un completo cuarto de baño y una habitación doble. La cocina se encuentra en esta planta desde esta se accede a la gran terraza interior con 57 metros de terraza donde encontramos la barbacoa y un trastero, desde la terraza se accede a la piscina comunitaria. En la segunda planta nos encontramos un completo cuarto de baño con ducha y dos habitaciones amplias con acceso a la terraza superior con vista a la piscina. En esta planta se encuentra la habitación principal muy espaciosa y con vestidor y un cuarto de baño completo en el interior de esta habitación. Cuidada al detalle todo el suelo es de mármol aire frío y calor en toda la casa por conductos. Esta propiedad se encuentra en Alaquàs municipio cercano a Valencia y cercano a las playas de la costa de Valencia, muy cercano al aeropuerto y también de centros comerciales con todos los servicios.
+Esta propiedad se encuentra en Alaquàs municipio cercano a Valencia y cercano a las playas de la costa de Valencia, muy cercano al aeropuerto y también de centros comerciales con todos lo servicios.",['Casa'],Sí,395000.0
+113,Ático en Alaquàs,Alaquàs,,Piso,Ático en Alaquàs,3.0,113,3.0,,"J 8062 ref. Tecnopiso os presenta, duplex semi nuevo 
+Disponibilidad  inmediata se puede visitar con cita previa 
+Vivienda vacia y cocina con electrodomesticos
+Garaje y trastero incluidos en el precio
+
+Duplex semi nuevo en 2 planta con ascensor 
+
+Todo exterior, muy luminosa y en buen estado.
+Consta de una superficie de 113 m, distribuidos en el primer piso con amplio comedor con salida a balcón, cocina americana equipada con termo eléctrico nuevo marca ariston, campana extractora marca mepansa, placa de inducción y horno pirolítico marca siemens, un dormitorio con armario empotrado y un aseo.
+
+En el piso de arriba 2 habitaciones dobles con armarios empotrados, con cama de matrimonio y dos baños con mampara, uno de ellos en la habitación principal.
+Buenas calidades, suelo de parque en toda la vivienda, dos aires acondicionados por split, carpintería exterior de aluminio, doble acristalamiento climalit, iluminación por led de bajo consumo.
+Mucha luz natural, excelente distribución, puerta acorazada, ascensor, plaza de garaje para coche y moto y trastero incluidos en el precio.
+Rodeado de todos los servicios guardería, colegio, supermercados, zonas infantiles, parques. 
+
+Ven a verla te gustará!",['Piso'],Sí,230000.0
+114,Dúplex en Alaquàs,Alaquàs,,Piso,Dúplex en Alaquàs,3.0,113,3.0,2ª planta,"Vivienda dúplex de 113m seminueva exterior, amueblada, con mucha luz y en buen estado.
+
+En el primer piso encontramos un amplio comedor con salida a balcón, cocina americana equipada con termo eléctrico nuevo, campana extractora, placa de inducción y horno pirolítico, un dormitorio con armario empotrado y un aseo.
+
+En el piso de arriba encontramos dos habitaciones dobles con armarios empotrados, con cama de matrimonio y dos baños con mampara, uno de ellos en la habitación principal. Suelo de parquet en toda la vivienda, dos aires acondicionados, carpintería exterior de aluminio, doble acristalamiento climalit, iluminación por leds de bajo consumo.
+
+Mucha luz natural, excelente distribución, puerta acorazada, ascensor, amplia plaza de garaje para coche y moto, trastero
+
+Alrededor encontramos todo tipo de servicios como guardería, colegio, supermercados, zonas infantiles, parques...
+
+-------------------------------------------------------------
+
+NO PIERDAS ESTA OPORTUNIDAD ÚNICA!!!
+
+--------------------------------------------------------------",['Piso'],Sí,230000.0
+115,Piso en Alaquàs,Alaquàs,,Piso,Piso en Alaquàs,3.0,130,,,"Tecnocasa alaquas gestiona en exclusiva.
+Vivienda ubicada en edifico independiendiente a la finca, consta de 3 dormitorios 2 de ellos son dobles, baño actualizado con plato de ducha. Salón de 30 m² con zona de comedor y acceso directo a terraza de 20m². Cocina totalmente equipada.
+
+Totalmente reformada. Puertas de madera, electricidad, suelo porcelanico en acabado madera, ventanas de aluminio climalit blanco. Dotada con todo tipo de servicios en los alrededores, cercana a colegios y parques.",['Piso'],No,210000.0
+117,Piso en Alaquàs,Alaquàs,,Piso,Piso en Alaquàs,3.0,90,,3ª planta,"*** Senyera Inmobiliaria *** pone a su disposicion piso completamente reformado en Alaquàs.
+
+El piso cuenta con 3 habitaciones, salón-comedor con salida al balcón, cocina abierta al salón, 1 baño.
+
+Reformado completamente hace 5 meses, prácticamente a estrenar.
+
+Tiene un trastero amplio en la terraza.
+
+En una de las zonas más consolidadas de Alaquàs, cerca de comercios y colegios.
+
+No dudes en venir a visitarlo!
+
+꧁ POR SOLO 135.000€ ꧂
+
+Todo tipo de comercios y servicios al alcance de tu mano
+No pierdas la oportunidad de venir a visitarlo.
+
+Estamos en la calle Blasco Ibáñez n90, Burjassot
+Para cualquier información no dudes en llamarnos.
+
++Este inmueble está sujeto a cambios de precio o retirada del mercado sin previo aviso.
++El precio no incluye lo siguiente: honorarios de la agencia inmobiliaria, ITP y otros gastos de la
+Compraventa (Notaria, Gestoría y registro).
+
+Los datos de esta publicación, se muestran a título informativo, no contractual y no son vinculantes.",['Piso'],No,135000.0
+118,Piso en Alaquàs,Alaquàs,,Piso,Piso en Alaquàs,3.0,150,2.0,,"TECNOCASA ALAQUÁS gestiona en EXCLUSIVA.
+
+Vivienda totalmente reformada, en finca con ascensor de los años 2000, con terraza de 40m2 privada, consta de 3 dormitorios, dos de ellos dobles con armarios empotrados, salón exterior de 35m2, cocina totalmente equipada con acceso a galeria de 10m2. Dormitorio principal con baño en suite.
+
+Puertas de roble, ventanas de climalit, suelo de parquet y cocina adaptada con placa de inducción.
+
+Zona rodeada de múltiples servicios, colegios, parques, supermercados.
+
+Plaza de garaje y trastero incluidos en precio.",['Piso'],Sí,210000.0
+120,Piso en Alaquàs,Alaquàs,,Piso,Piso en Alaquàs,3.0,85,,3ª planta,"TECNOCASA ALAQUÁS gestiona en EXCLUSIVA.
+
+Vivienda totalmente reformada a estrenar en finca sin ascensor, consta de 3 dormitorios, 2 de ellos dobles, salón exterior de 20 metros con cocina office totalmente reformada, baño completo con plato de ducha y ventana.
+
+Reforma reciente a estrenar con calidades inmejorables, puertas de roble lacadas en blanco, ventanas de aluminio climalit lacadas en blanco, suelo ceramico y cocina office de Diseño.
+
+Zona rodeada de múltiples servicios, colegios, parques, supermercados. Situado a 5 minutos del centro de Alaquàs.",['Piso'],No,98000.0
+121,Piso en Alaquàs,Alaquàs,,Piso,Piso en Alaquàs,3.0,90,,3ª planta,"Tecnocasa alaquàs gestiona en exclusiva.
+
+Vivienda ubicada en edifico con ascensor de los años 70, consta de 3 dormitorios 2 de ellos son dobles, baño actualizado con plato de ducha y ventana en perfecto estado, salón de 15m². Cocina totalmente equipada y amplia contigua al salón.
+
+Acabados; puertas de madera de roble, electricidad actualizada, suelos vitrificados, ventanas de aluminio. Split en salón.
+
+Zona rodeada de múltiples servicios, colegios, parques, supermercados. Situado a 5 minutos del centro de alaquàs.",['Piso'],No,112500.0
+122,Piso en Carrer de la Melissa,Valterna-Terramelar (Paterna),Paterna,Piso,"Piso en Carrer de la Melissa, 42",3.0,354,2.0,2ª planta,"Esc-c-p2-b. Piso en un inmueble de obra nueva de 354 m² de superficie construida y situado en la zona de paterna, acomodado en pla...",['Piso'],No,431000.0
+123,Piso en Carrer del Barranquet de Sau,Santa Rita-Alborgí (Paterna),Paterna,Piso,Piso en Carrer del Barranquet de Sau,2.0,64,,,"Se vende piso en paterna, zona santa rita, en rentabilidad. El contrato de alquiler vence en octubre de 2026, con un ingreso mensu...",['Piso'],No,110000.0
+124,Piso en Carrer Miguel Hernández,Centre (Paterna),Paterna,Piso,"Piso en Carrer Miguel Hernández, 10",3.0,86,2.0,,Vivienda 6. Piso en una finca de obra nueva de 86 m² de superficie construida y emplazado en la zona de paterna. Está dispuesto en...,['Piso'],No,229000.0
+125,Ático en calle de los Molinos,Santa Rita-Alborgí (Paterna),Paterna,Piso,"Ático en calle de los Molinos,  s/n",3.0,218,2.0,,"Tipo c. 10º-40. Ático en un inmueble de obra nueva de 218 m² de superficie construida y situado en la zona de paterna, acomodado e...",['Piso'],No,371500.0
+126,Chalet en calle 231,La Canyada - La Cañada (Paterna),Paterna,Chalet,Chalet en calle 231,4.0,144,3.0,,"Se vende un magnífico y amplio chalet, situado en la zona del pla del pou, en la cañada, una de las poblaciones más demandadas de ...",['Chalet'],No,545000.0
+127,Piso en Carrer de les Roses,Centre (Manises),Manises,Piso,"Piso en Carrer de les Roses, 20",2.0,97,2.0,,"Escalera 7-bajo-a. Piso en un edificio de obra nueva de 97 m² de superficie construida y ubicado en la zona de manises, enclavado ...",['Piso'],No,220000.0
+128,Piso en Avenida de Vicente Mortes Alfonso,Santa Rita-Alborgí (Paterna),Paterna,Piso,Piso en Avenida de Vicente Mortes Alfonso,3.0,90,,1ª planta,"¡Luminoso y espacioso piso en venta, acabando la reforma integral, con acabados de alta calidad, ubicado en la deseada y buscada z...",['Piso'],No,175000.0
+129,Chalet en calle 231,La Canyada - La Cañada (Paterna),Paterna,Chalet,Chalet en calle 231,4.0,160,3.0,,"Chalet en el plantío (paterna)
+
+Ubicación: este chalet se encuentra en la prestigiosa urbanización el plantío, en paterna, una zon...",['Chalet'],No,549000.0
+130,Chalet en Carrer 29,La Canyada - La Cañada (Paterna),Paterna,Chalet,Chalet en Carrer 29,5.0,186,3.0,,"Chalet independiente en la cañada, valencia – ubicación exclusiva y máximo confort
+Presentamos este chalet independiente en una de...",['Chalet'],No,460000.0
+131,Piso en Carrer del Barranquet de Sau,Santa Rita-Alborgí (Paterna),Paterna,Piso,"Piso en Carrer del Barranquet de Sau, 40",2.0,73,,,"Se vende piso en el barrio de santa rita, paterna. Se trata de un bajo con una distribución funcional y acogedora. La vivienda cue...",['Piso'],No,115000.0
+132,Chalet en La Canyada - La Cañada,La Canyada - La Cañada (Paterna),Paterna,Chalet,Chalet en La Canyada - La Cañada,4.0,268,4.0,,"¡Atención amantes del lujo y la exclusividad! Nos complace presentarles una joya inmobiliaria única en su estilo, un espectacular ...",['Chalet'],No,860000.0
+133,Piso en calle Federica Montseny,Quart de Poblet,,Piso,"Piso en calle Federica Montseny,  S/N",2.0,95,2.0,7ª planta,V059-esc. 1 - p07 - h. Piso en un inmueble de obra nueva de 95 m² de superficie construida y situado en la zona de quart de poblet...,['Piso'],No,259000.0
+134,Piso en Carrer de la Melissa,Valterna-Terramelar (Paterna),Paterna,Piso,"Piso en Carrer de la Melissa, 42",3.0,135,2.0,4ª planta,"Esc-c-p4-a. Piso en un inmueble de obra nueva de 135 m² de superficie construida y situado en la zona de paterna, acomodado en pla...",['Piso'],No,333000.0
+135,Piso en Carrer de la Melissa,Valterna-Terramelar (Paterna),Paterna,Piso,"Piso en Carrer de la Melissa, 42",3.0,147,2.0,2ª planta,"Esc-c-p2-a. Piso en un inmueble de obra nueva de 147 m² de superficie construida y situado en la zona de paterna, acomodado en pla...",['Piso'],No,323000.0
+136,Ático en Carrer de la Melissa,Valterna-Terramelar (Paterna),Paterna,Piso,"Ático en Carrer de la Melissa, 42",3.0,178,2.0,,"Esc-b-p8-b. Piso en un inmueble de obra nueva de 178 m² de superficie construida y situado en la zona de paterna, acomodado en pla...",['Piso'],No,442000.0
+137,Piso en Carrer de la Melissa,Valterna-Terramelar (Paterna),Paterna,Piso,"Piso en Carrer de la Melissa, 42",2.0,94,2.0,1ª planta,"Esc-a-p1-a. Piso en un inmueble de obra nueva de 94   m² de superficie construida y situado en la zona de paterna, acomodado en pl...",['Piso'],No,258000.0
+138,Piso en Carrer de la Melissa,Valterna-Terramelar (Paterna),Paterna,Piso,"Piso en Carrer de la Melissa, 42",2.0,96,2.0,2ª planta,"Esc-c-p2-c. Piso en un inmueble de obra nueva de 96 m² de superficie construida y situado en la zona de paterna, acomodado en plan...",['Piso'],No,268000.0
+139,Piso en calle Federica Montseny,Quart de Poblet,,Piso,"Piso en calle Federica Montseny,  S/N",2.0,89,2.0,7ª planta,V055-esc. 1 - p07 - d. Piso en un inmueble de obra nueva de 89 m² de superficie construida y situado en la zona de quart de poblet...,['Piso'],No,236000.0
+140,Piso en calle Federica Montseny,Quart de Poblet,,Piso,"Piso en calle Federica Montseny,  S/N",,65,,5ª planta,"V041-Esc. 1 - P05 - F. Piso en un inmueble de obra nueva de 765  m2 de superficie construida y situado en la zona de Quart de Poblet, acomodado en planta 5. Está estructurado en 1 habitación, 1 baño completo y terraza. Proporciona como acabados y suelo parquet. Aporta como extras garaje y trastero.",['Piso'],Sí,178000.0
+141,Piso en calle Dels Pins & Carrer de Les Roses,Santa Rita-Alborgí (Paterna),Paterna,Piso,"Piso en calle Dels Pins & Carrer de Les Roses,  S/N",3.0,110,2.0,3ª planta,"Escalera b, 3º h. Piso en un inmueble de obra nueva de 110 m² de superficie construida y situado en la zona de paterna, acomodado ...",['Piso'],No,253000.0
+142,Piso en calle Federica Montseny,Quart de Poblet,,Piso,"Piso en calle Federica Montseny,  S/N",3.0,111,2.0,5ª planta,V040-esc. 1 - p05 - e. Piso en un inmueble de obra nueva de 111 m² de superficie construida y situado en la zona de quart de poble...,['Piso'],No,271000.0
+143,Piso en calle Francesc Ferrer Pastor,El Mercat (Manises),Manises,Piso,"Piso en calle Francesc Ferrer Pastor,  s/n",3.0,107,2.0,2ª planta,"Planta 2, escalera 2, puerta d.  Piso en un edificio de obra nueva de 107 m² de superficie construida y ubicado en la zona de soto...",['Piso'],No,250000.0
+144,Piso en calle Dels Pins & Carrer de Les Roses,Santa Rita-Alborgí (Paterna),Paterna,Piso,"Piso en calle Dels Pins & Carrer de Les Roses,  S/N",2.0,99,2.0,1ª planta,"Escalera b, 1º i. Piso en una finca de obra nueva de 99 m² de superficie construida y emplazado en la zona de paterna, posicionado...",['Piso'],No,195000.0
+147,Piso en calle de la Alfábega,Valterna-Terramelar (Paterna),Paterna,Piso,Piso en calle de la Alfábega,4.0,140,2.0,4ª planta,"Altura piso 4º, piso superficie total 140 m², superficie útil 130 m², hab. Individuales: 1, habitaciones dobles: 3, 2 baños, antig...",['Piso'],No,335000.0
+148,Piso en Quart de Poblet,Quart de Poblet,,Piso,Piso en Quart de Poblet,2.0,116,2.0,5ª planta,"One sab inmobiliaria presenta céntrico piso en quart de poblet 
+
+Luminosa y espaciosa vivienda con dos habitaciones en quinta plan...",['Piso'],No,220000.0
+149,Ático en Aldaia,Aldaia,,Piso,Ático en Aldaia,3.0,150,2.0,,"Este espectacular ático en aldaia cuenta con una superficie total de 150 m², siendo 90 m² útiles. Consta de 2 habitaciones individ...",['Piso'],No,190000.0
+150,Piso en Carrer Major,Centre (Manises),Manises,Piso,Piso en Carrer Major,4.0,96,,,"En venta esta magnifica vivienda situada en una 1º altura con patio y balcón ,vivienda situada en una muy buena zona de la poblaci...",['Piso'],No,146000.0
+152,Chalet en Aldaia,Aldaia,,Chalet,Chalet en Aldaia,6.0,825,2.0,,"Exclusiva casa señorial ubicada en el centro de aldaya, a tan solo 15 minutos de valencia.
+Se distribuye en 3 plantas más un sótan...",['Chalet'],No,525000.0
+153,Ático en Carrer 30,La Canyada - La Cañada (Paterna),Paterna,Piso,"Ático en Carrer 30, 32",2.0,108,,,Tipo 17. Ático en un edificio de obra nueva de 108 m² de superficie construida y ubicado en la zona de paterna. Está distribuido e...,['Piso'],No,385000.0
+154,Casa en Plaza Dos de Mayo,El Mercat (Manises),Manises,Casa,Casa en Plaza Dos de Mayo,4.0,199,2.0,,"Casa de pueblo en el centro de manises, con patio interior y muchas posibilidades.
+Zona comercial por lo que el bajo se puede dedi...",['Casa'],No,200000.0
+155,Piso en Carrer de Ramón y Cajal,El Mercat (Manises),Manises,Piso,Piso en Carrer de Ramón y Cajal,3.0,60,,4ª planta,"Nos complace poder ofrecer de nuestra mejor selección este precioso piso ubicado en el centro de manises, en zona del mercado. Se ...",['Piso'],No,130000.0
+156,Piso en calle de los Molinos,Santa Rita-Alborgí (Paterna),Paterna,Piso,"Piso en calle de los Molinos,  s/n",3.0,115,2.0,8ª planta,"Tipo a. 8º. Piso en un inmueble de obra nueva de 115 m² de superficie construida y situado en la zona de paterna, acomodado en pla...",['Piso'],No,258500.0
+157,Piso en Carrer de les Roses,Centre (Manises),Manises,Piso,"Piso en Carrer de les Roses, 20",3.0,94,2.0,6ª planta,"En rosas20 te ofrecemos una estupenda oportunidad de mejorar tu calidad de vida disfrutando de un entorno armonioso, agradable y m...",['Piso'],No,295000.0
+158,Dúplex en Aldaia,Aldaia,,Piso,Dúplex en Aldaia,3.0,130,3.0,3ª planta,"Duplex con terraza a pie de salón, ascensor, trastero y garaje en la misma finca. Duplex de 95m² + 35m² de terraza, en planta de e...",['Piso'],Sí,206000.0
+159,Piso en Carrer 30,La Canyada - La Cañada (Paterna),Paterna,Piso,"Piso en Carrer 30, 32",3.0,110,2.0,,Tipo 6. Piso en una finca de obra nueva de 110 m² de superficie construida y emplazado en la zona de paterna. Está dispuesto en 3 ...,['Piso'],No,220000.0
+160,Piso en Centre,Centre (Paterna),Paterna,Piso,Piso en Centre,4.0,107,,2ª planta,"¡Oportunidad única en paterna, zona de alborgí!Se vende amplio piso de 100 m² en una de las mejores zonas de paterna. la vivienda ...",['Piso'],No,155000.0
+162,Piso en Carrer de les Roses,Centre (Manises),Manises,Piso,"Piso en Carrer de les Roses, 20",3.0,113,2.0,1ª planta,"Escalera 8-1ºb. Piso en una finca de obra nueva de 113 m² de superficie construida y emplazado en la zona de manises, posicionado ...",['Piso'],No,230000.0
+163,Piso en calle de los Molinos,Santa Rita-Alborgí (Paterna),Paterna,Piso,"Piso en calle de los Molinos,  s/n",3.0,105,2.0,6ª planta,"Tipo a. 6º. Piso en un inmueble de obra nueva de 105 m² de superficie construida y situado en la zona de paterna, acomodado en pla...",['Piso'],No,249500.0
+164,Casa pareada en La Canyada - La Cañada,La Canyada - La Cañada (Paterna),Paterna,Casa,Casa pareada en La Canyada - La Cañada,,98,,,"Precioso chalé pareado en una planta, de 98 m² construidos y 73 m² útiles, con muchas posibilidades y grandes estancias . 
+
+La pro...",['Casa'],No,280000.0
+165,Piso en calle de los Cirerers,Casas Verdes-Mas del Rosari (Paterna),Paterna,Piso,Piso en calle de los Cirerers,6.0,552,3.0,2ª planta,"Personaliza la descripción del anuncio. Indica cómo es el inmueble, cuál es su entorno, qué lo hace diferente… una descripción com...",['Piso'],No,675000.0
+166,Ático en calle de los Molinos,Santa Rita-Alborgí (Paterna),Paterna,Piso,"Ático en calle de los Molinos,  s/n",3.0,218,2.0,,"Tipo d. 10º-39. Ático en un inmueble de obra nueva de 218 m² de superficie construida y situado en la zona de paterna, acomodado e...",['Piso'],No,376500.0
+167,Piso en Carrer de les Roses,Centre (Manises),Manises,Piso,"Piso en Carrer de les Roses, 20",3.0,114,2.0,4ª planta,"Escalera 5-4ºb. Piso en un edificio de obra nueva de 114 m² de superficie construida y ubicado en la zona de manises, enclavado en...",['Piso'],No,254000.0
+168,Ático en Santa Rita-Alborgí,Santa Rita-Alborgí (Paterna),Paterna,Piso,Ático en Santa Rita-Alborgí,,65,,,"Este encantador ático de 65 m², situado en la zona de santa rita-alborgí en paterna, se encuentra en la tercera planta de un edifi...",['Piso'],No,139000.0
+169,Piso en Carrer de la Frígola,Valterna-Terramelar (Paterna),Paterna,Piso,Piso en Carrer de la Frígola,4.0,135,2.0,,"Mil calles presenta este piso en venta de 135 m², 2ª planta exterior con ascensor.
+La vivienda cuenta con 4 habitaciones ,2 baños ...",['Piso'],No,320000.0
+170,Dúplex en Aldaia,Aldaia,,Piso,Dúplex en Aldaia,3.0,150,2.0,2ª planta,"Presentamos a la venta éste excelente dúplex en perfecto estado, para entrar a vivir, ubicado en una segunda planta con ascensor. ...",['Piso'],No,190000.0
+172,Piso en El Mercat,El Mercat (Manises),Manises,Piso,Piso en El Mercat,4.0,120,2.0,2ª planta,Stockinmuebles presenta esta vivienda lista para vivir. Oportunidad única de empezar una nueva vida en una de las zonas con más de...,['Piso'],No,170000.0
+173,Piso en Campamento,Centre (Paterna),Paterna,Piso,Piso en Campamento,3.0,79,,4ª planta,"Piso con arrendatarios.  Ideal inversores. Fecha inicio contrato: 22-03-23, fecha final de contrato: 21-03-28. Rentabilidad bruta ...",['Piso'],No,87000.0
+174,Chalet en La Canyada - La Cañada,La Canyada - La Cañada (Paterna),Paterna,Chalet,Chalet en La Canyada - La Cañada,6.0,101,2.0,,"Magnífica oportunidad en la cañada.
+Chalet, en buen estado, de una sola planta.
+Consta de cuatro habitaciones y dos más en la part...",['Chalet'],No,285000.0
+175,Piso en Carrer de les Roses,Centre (Manises),Manises,Piso,"Piso en Carrer de les Roses, 20",3.0,114,3.0,1ª planta,"Obras ya iniciadas
+En rosas20 te ofrecemos una estupenda oportunidad de mejorar tu calidad de vida disfrutando de un entorno armon...",['Piso'],No,230000.0
+176,Casa en Centre,Centre (Manises),Manises,Casa,Casa en Centre,4.0,315,2.0,,"Esta vivienda está ubicada en el corazón de manises  y cuenta con planta baja espaciosa equipada con aseo , patio  y con vivienda ...",['Casa'],No,410000.0
+177,Chalet en La Canyada - La Cañada,La Canyada - La Cañada (Paterna),Paterna,Chalet,Chalet en La Canyada - La Cañada,5.0,344,3.0,,"Ubicado en la prestigiosa zona residencial de la cañada, muy próximo al british college, a la cañada pueblo, a la policía y a los ...",['Chalet'],No,650000.0
+178,Piso en Alameda Parc,Alameda Parc (Manises),Manises,Piso,Piso en Alameda Parc,2.0,79,,2ª planta,Se vende piso muy cuco completamente exterior con ascensor y amueblado en una de las mejores zonas de manises. La vivienda dispone...,['Piso'],No,142000.0
+179,Piso en Santa Rita-Alborgí,Santa Rita-Alborgí (Paterna),Paterna,Piso,Piso en Santa Rita-Alborgí,3.0,138,2.0,1ª planta,"Magnifica nueva promoción de 60 viviendas y áticos de 3 habitaciones todos con  gran terraza,  garaje y trastero incluidos, zona c...",['Piso'],Sí,220000.0
+180,Chalet en El Plantío,La Canyada - La Cañada (Paterna),Paterna,Chalet,Chalet en El Plantío,4.0,290,2.0,,"Chalet independiente en el plantío (la canyada) con piscina privada, parcela junto colegio british school disfruta de la tranquili...",['Chalet'],No,900000.0
+181,Chalet en El Plantío,La Canyada - La Cañada (Paterna),Paterna,Chalet,Chalet en El Plantío,5.0,392,4.0,,"Venta de chalé con precioso diseño y gran calidad.
+En esquina, con escaleras y en semi alturas.
+
+Consta de :
+Hall de recepción, sa...",['Chalet'],No,870000.0
+182,Piso en Carrer de les Roses,Centre (Manises),Manises,Piso,"Piso en Carrer de les Roses, 20",3.0,114,2.0,5ª planta,"Escalera 5-5ºb. Piso en una finca de obra nueva de 114 m² de superficie construida y emplazado en la zona de manises, posicionado ...",['Piso'],No,259500.0
+183,Piso en Santa Rita-Alborgí,Santa Rita-Alborgí (Paterna),Paterna,Piso,Piso en Santa Rita-Alborgí,2.0,77,,2ª planta,"*inmueble en venta en alborgí, (paterna)*
+
+Con una superficie de 77 m². (según ficha catastral), muy bien distribuida aprovechando...",['Piso'],No,139000.0
+185,Casa en La Canyada - La Cañada,La Canyada - La Cañada (Paterna),Paterna,Casa,Casa en La Canyada - La Cañada,5.0,291,3.0,,"Sobre una parcela de algo mas de 500m², encontramos este precioso unifamiliar que destaca por su luminosidad, sus buenas calidades...",['Casa'],No,595000.0
+186,Piso en Aldaia,Aldaia,,Piso,Piso en Aldaia,3.0,108,2.0,2ª planta,"Esta preciosa vivienda tiene 108 m² esta ubicada muy cerca de todos los accesos a valencia, próxima al centro comercial bonaire y ...",['Piso'],No,170000.0
+187,Piso en Carrer de les Roses,Centre (Manises),Manises,Piso,"Piso en Carrer de les Roses, 20",3.0,116,2.0,1ª planta,"En rosas20 te ofrecemos una estupenda oportunidad de mejorar tu calidad de vida disfrutando de un entorno armonioso, agradable y m...",['Piso'],No,230000.0
+188,Piso en Carrer 30,La Canyada - La Cañada (Paterna),Paterna,Piso,"Piso en Carrer 30, 32",3.0,102,2.0,,Tipo 12. Piso en un edificio de obra nueva de 102 m² de superficie construida y ubicado en la zona de paterna. Está distribuido en...,['Piso'],No,280000.0
+189,Piso en Aldaia - Barrio del Cristo,Aldaia,,Piso,Piso en Aldaia - Barrio del Cristo,3.0,150,2.0,3ª planta,"Piso  en aldaia - barrio del cristo, con 150 m² construidos, 3 dormitorios, 2 baños, seminuevo, exterior, planta 3, 3 armarios, as...",['Piso'],No,190000.0
+190,Piso en Carrer de les Roses,Centre (Manises),Manises,Piso,"Piso en Carrer de les Roses, 20",3.0,113,2.0,1ª planta,"Escalera 5-1ºa. Piso en una finca de obra nueva de 113 m² de superficie construida y emplazado en la zona de manises, posicionado ...",['Piso'],No,243500.0
+191,Piso en Alameda Parc,Alameda Parc (Manises),Manises,Piso,Piso en Alameda Parc,2.0,79,,2ª planta,"Se vende vivienda con ascensor para entrar a vivir. 79 m² construidos, distribuidos en 2 habitaciones dobles con armarios empotrad...",['Piso'],No,155000.0
+192,Apartamento en Casas Verdes-Mas del Rosari,Casas Verdes-Mas del Rosari (Paterna),Paterna,Piso,Apartamento en Casas Verdes-Mas del Rosari,3.0,86,2.0,1ª planta,"En engel & völkers tenemos el placer de presentar en exclusiva este fantástico piso con una terraza de 30 m². Al abrir la puerta, ...",['Piso'],No,259000.0
+193,Apartamento en Valterna-Terramelar,Valterna-Terramelar (Paterna),Paterna,Piso,Apartamento en Valterna-Terramelar,3.0,112,2.0,4ª planta,"Engel & völkers se complace en presentar este luminoso y práctico piso en valterna, listo para entrar a vivir. Al ingresar, encont...",['Piso'],No,310000.0
+194,Casa en Centre,Centre (Manises),Manises,Casa,Casa en Centre,4.0,200,3.0,,"Ref 4690- casa en venta en manises .
+Planta baja . Salon, cocina oficce, baño completo ,habitacion dobles .
+
+Primera planta .-  sa...",['Casa'],No,250000.0
+195,Piso en Carrer Major,Centre (Manises),Manises,Piso,Piso en Carrer Major,4.0,96,,1ª planta,"¡Oportunidad única en el corazón de la ciudad! Este encantador piso en primera planta sin ascensor, con aproximadamente 90 m² útil...",['Piso'],No,146000.0
+196,Piso en Carrer de les Roses,Centre (Manises),Manises,Piso,"Piso en Carrer de les Roses, 20",3.0,113,3.0,2ª planta,"Obras ya iniciadas
+En rosas20 te ofrecemos una estupenda oportunidad de mejorar tu calidad de vida disfrutando de un entorno armon...",['Piso'],No,246000.0
+197,Casa en Centre,Centre (Paterna),Paterna,Casa,Casa en Centre,5.0,350,2.0,,"Descripción: esta espaciosa casa de tres alturas se encuentra en una ubicación privilegiada, muy cerca del centro de la población....",['Casa'],No,385000.0
+198,Casa en La Canyada - La Cañada,La Canyada - La Cañada (Paterna),Paterna,Casa,Casa en La Canyada - La Cañada,5.0,426,3.0,,"Presentamos esta magnífica vivienda que destaca por sus excelentes calidades e inmejorable ubicación. Su diseño moderno, distribuc...",['Casa'],No,1240000.0
+199,Casa en Manises-Centro,Centre (Manises),Manises,Casa,Casa en Manises-Centro,4.0,187,2.0,,"Vendemos casa seminueva en manises. La vivienda tiene 3 alturas. 
+En el sótano esta la plaza de garaje con capacidad para 2 coches...",['Casa'],Sí,295000.0
+200,Piso en calle El Puig,Casas Verdes-Mas del Rosari (Paterna),Paterna,Piso,Piso en calle El Puig,3.0,146,2.0,2ª planta,"Este maravilloso piso en venta se encuentra en el municipio de paterna. Se sitúa en la zona de casas verdes-mas del rosari, en un ...",['Piso'],No,172490.0
+201,Piso en Carrer de les Ones,Santa Rita-Alborgí (Paterna),Paterna,Piso,Piso en Carrer de les Ones,3.0,114,2.0,2ª planta,Solo inversores. Exenta de iva e itp  para comprador empresa.  La propiedad es empresa y el inquilino también empresa (por contrat...,['Piso'],No,175000.0
+202,Piso en calle Francesc Ferrer Pastor,El Mercat (Manises),Manises,Piso,"Piso en calle Francesc Ferrer Pastor,  s/n",4.0,147,2.0,2ª planta,"Planta 2, Escalera 1, Puerta C.  Piso en un edificio de obra nueva de 147 m2 de superficie construida y ubicado en la zona de Soto de la Vega, enclavado en planta 2. Está distribuido en 4 habitaciones, 2 baños completos y terraza. Incluye extras como garaje y trastero.",['Piso'],Sí,299000.0
+204,Casa en Casas Verdes-Mas del Rosari,Casas Verdes-Mas del Rosari (Paterna),Paterna,Casa,Casa en Casas Verdes-Mas del Rosari,7.0,847,6.0,,Les presentamos una oportunidad única: esta singular propiedad ubicada en una de las urbanizaciones privadas más cercanas a valenc...,['Casa'],No,1190000.0
+205,Piso en Grupo de La Merced,Centre (Paterna),Paterna,Piso,"Piso en Grupo de La Merced, 11",2.0,64,,4ª planta,Vivienda no visitable por encontrarse okupada. El inmueble se vende en las condiciones actuales de ocupación.,['Piso'],No,31455.0
+206,Ático en Carrer Miguel Hernández,Centre (Paterna),Paterna,Piso,"Ático en Carrer Miguel Hernández, 10",2.0,70,,,Vivienda 13. Ático en una finca de obra nueva de 70 m² de superficie construida y emplazado en la zona de paterna. Está dispuesto ...,['Piso'],No,261900.0
+207,Ático en Alameda Parc,Alameda Parc (Manises),Manises,Piso,Ático en Alameda Parc,5.0,164,2.0,,"Engel & völkers presenta en exclusiva esta excepcional vivienda de 260 m², distribuidos en 164 m² de vivienda y 96 m² de terraza, ...",['Piso'],No,315000.0
+208,Ático en Barrio del Cristo,Aldaia,,Piso,Ático en Barrio del Cristo,3.0,116,2.0,,"Se vende magnífico ático en la zona de aldaia (barrio del cristo), valencia, con una superficie total de 150 metros cuadrados. Est...",['Piso'],No,190000.0
+209,Chalet en Carrer 229,La Canyada - La Cañada (Paterna),Paterna,Chalet,Chalet en Carrer 229,4.0,330,4.0,,Este impresionante chalet independiente de 330 m² distribuidos en tres plantas ofrece todo lo necesario para vivir con elegancia y...,['Chalet'],No,790000.0
+210,Chalet en La Canyada - La Cañada,La Canyada - La Cañada (Paterna),Paterna,Chalet,Chalet en La Canyada - La Cañada,5.0,350,2.0,,"Fabulosa vivienda unifamiliar en la urbanización la cañada, zona de la vallesa.
+
+Descubre esta magnífica propiedad, situada en una...",['Chalet'],No,785000.0
+211,Piso en Carrer de les Roses,Alameda Parc (Manises),Manises,Piso,"Piso en Carrer de les Roses, 15",3.0,75,,1ª planta,"Nos llenaria de orgullo que visitaras esta vivienda disponible a la venta.
+
+Está ubicado en manises(valencia).
+
+Es una vivienda qu...",['Piso'],No,75000.0
+212,Chalet en La Canyada - La Cañada,La Canyada - La Cañada (Paterna),Paterna,Chalet,Chalet en La Canyada - La Cañada,4.0,160,2.0,,"Chalet en venta en la cañada ,con 4 habitaciones 3 en planta y una en buhardilla,dos baños ,salon comedor y cocina ,la vivienda ti...",['Chalet'],No,379000.0
+213,Piso en Aldaia,Aldaia,,Piso,Piso en Aldaia,3.0,109,2.0,2ª planta,"Inversores. Piso ocupado, no se puede visitar. Esta es una oportunidad exclusiva para aquellos inversores que buscan una propiedad...",['Piso'],No,108000.0
+214,Piso en Aldaia,Aldaia,,Piso,Piso en Aldaia,3.0,76,,2ª planta,"Ref. 00240- aldaia, piso en venta, zona tama ideal para inversores. La vivienda esta alquilada actualmente. Alquiler: 700 €/mensua...",['Piso'],No,110000.0
+215,Piso en Aldaia,Aldaia,,Piso,Piso en Aldaia,3.0,87,,,"Disponemos de un bajo vivienda en aldaia , adaptado a movilidad reducida , con tres habitaciones dobles , un baño , cocina indepen...",['Piso'],No,160000.0
+216,Ático en Carrer de les Roses,Centre (Manises),Manises,Piso,"Ático en Carrer de les Roses, 20",3.0,97,2.0,,"Escalera 5-6º(ático)-a. Ático en un inmueble de obra nueva de 97 m² de superficie construida y situado en la zona de manises, acom...",['Piso'],No,280000.0
+217,Ático en Carrer Miguel Hernández,Centre (Paterna),Paterna,Piso,"Ático en Carrer Miguel Hernández, 10",3.0,77,2.0,,Vivienda 15. Ático en una finca de obra nueva de 77 m² de superficie construida y emplazado en la zona de paterna. Está dispuesto ...,['Piso'],No,286000.0
+219,Chalet en Casas Verdes-Mas del Rosari,Casas Verdes-Mas del Rosari (Paterna),Paterna,Casa,Chalet en Casas Verdes-Mas del Rosari,4.0,353,3.0,,"Maravilloso chalet independiente en paterna, en la prestigiosa y exclusiva urbanización cruz de gracia. Este impresionante chalet ...",['Casa'],No,950000.0
+220,Piso en calle Poeta José Agustín Goytisolo,Casas Verdes-Mas del Rosari (Paterna),Paterna,Piso,Piso en calle Poeta José Agustín Goytisolo,2.0,88,2.0,2ª planta,Nos complace poder ofrecer de nuestra mejor selección esta preciosa vivienda en casas verdes (paterna) construida en 2007. Sus 88 ...,['Piso'],No,247000.0
+221,Casa en Aldaia,Aldaia,,Casa,Casa en Aldaia,5.0,572,4.0,,"Vivienda unifamiliar con una superficie de terreno de 884 m² con 507 m² construidos, cuatro alturas más la planta de garaje con 19...",['Casa'],Sí,890000.0
+222,Casa en Centro,Centre (Paterna),Paterna,Casa,Casa en Centro,5.0,343,4.0,,"Estupenda casa en zona centro del pueblo con un total de 343m² construidos en 3 plantas(pb+2) y ocupa un solar de 180m². 
+ La casa...",['Casa'],No,490000.0
+223,Piso en Carrer de les Roses,Centre (Manises),Manises,Piso,"Piso en Carrer de les Roses, 20",,53,,3ª planta,"Escalera 3-3ºd. Piso en un edificio de obra nueva de 53 m² de superficie construida y ubicado en la zona de manises, enclavado en ...",['Piso'],No,145000.0
+224,Piso en Carretera Ribarroja,Centre (Manises),Manises,Piso,"Piso en Carretera Ribarroja, nº 11",3.0,58,,2ª planta,"Para nosotros seria un placer enseñarte este piso que te ofrecemos a la venta.
+
+Está ubicado en manises,muy cerca de la parada del...",['Piso'],No,82000.0
+225,Casa en Centre,Centre (Paterna),Paterna,Casa,Casa en Centre,3.0,398,3.0,,"Primer grupo pone a la venta esta casa de pueblo a reformar en el centro de la población, a solo 1 minuto del ayuntamiento de la l...",['Casa'],No,225000.0
+226,Piso en Santa Rita-Alborgí,Santa Rita-Alborgí (Paterna),Paterna,Piso,Piso en Santa Rita-Alborgí,3.0,87,,3ª planta,"Inversores. Piso ocupado, no se puede visitar. Esta es una oportunidad exclusiva para aquellos inversores que buscan una propiedad...",['Piso'],No,41500.0
+227,Casa en calle Reyes Católicos,Quart de Poblet,,Casa,Casa en calle Reyes Católicos,4.0,89,,,"Quatre torres dispone a la venta en exclusiva casa de pueblo en suelo urbano en quart de poblet
+
+¿Buscas una vivienda independient...",['Casa'],No,89990.0
+229,Casa en La Canyada - La Cañada,La Canyada - La Cañada (Paterna),Paterna,Casa,Casa en La Canyada - La Cañada,4.0,253,4.0,,"En la planta baja encontramos el garaje, con trastero y aseo, que da a parar a una amplia terraza habilitada con un paellero de ob...",['Casa'],Sí,375000.0
+230,Piso en Carrer Santa Rita,Aldaia,,Piso,Piso en Carrer Santa Rita,4.0,115,,2ª planta,"¡Descubre tu nuevo hogar en el corazón de aldaia! Te presentamos este espacioso piso de 115 m², ideal para familias o inversores. ...",['Piso'],No,89000.0
+231,Casa en La Canyada - La Cañada,La Canyada - La Cañada (Paterna),Paterna,Casa,Casa en La Canyada - La Cañada,6.0,550,4.0,,"Sobre una parcela de mas de 2200m² encontramos esta magnifica propiedad que destaca por su buena ubicación, sus amplias estancias ...",['Casa'],No,1290000.0
+232,Chalet en La Canyada - La Cañada,La Canyada - La Cañada (Paterna),Paterna,Chalet,Chalet en La Canyada - La Cañada,4.0,333,4.0,,Este magnífico chalet independiente de 330 m² distribuidos en tres plantas reúne todas las comodidades para vivir con estilo y con...,['Chalet'],No,790000.0
+234,Piso en Carrer de les Roses,Centre (Manises),Manises,Piso,"Piso en Carrer de les Roses, 20",3.0,113,2.0,2ª planta,"Escalera 7-2ºa. Piso en una finca de obra nueva de 113 m² de superficie construida y emplazado en la zona de manises, posicionado ...",['Piso'],No,240000.0
+235,Piso en Carrer de Mallent i Meri,Santa Rita-Alborgí (Paterna),Paterna,Piso,Piso en Carrer de Mallent i Meri,2.0,70,,4ª planta,En alquiler acogedora vivienda de 70 m² completamente reformada y lista para entrar a vivir en la céntrica y demanda zona de albor...,['Piso'],No,
+236,Piso en Carrer de les Roses,Centre (Manises),Manises,Piso,"Piso en Carrer de les Roses, 20",2.0,90,2.0,6ª planta,"En rosas20 te ofrecemos una estupenda oportunidad de mejorar tu calidad de vida disfrutando de un entorno armonioso, agradable y m...",['Piso'],No,285000.0
+237,Piso en Santa Rita-Alborgí,Santa Rita-Alborgí (Paterna),Paterna,Piso,Piso en Santa Rita-Alborgí,3.0,93,2.0,1ª planta,"Inversores. Piso ocupado, no se puede visitar. Esta es una oportunidad exclusiva para aquellos inversores que buscan una propiedad...",['Piso'],No,78690.0
+238,Casa en La Canyada - La Cañada,La Canyada - La Cañada (Paterna),Paterna,Casa,Casa en La Canyada - La Cañada,3.0,133,2.0,,"Esta preciosa propiedad recién reformada. Cuenta de 2 habitaciones en la planta principal, ambas con aire acondicionado split, y 2...",['Casa'],No,360000.0
+239,Ático en Carrer Minglanilla,Aldaia,,Piso,"Ático en Carrer Minglanilla, 746960 Aldaia, València",2.0,170,2.0,,"Se vende precioso ático dúplex en aldaia, ubicado en una zona tranquila y bien comunicada, ideal para quienes buscan comodidad y c...",['Piso'],No,183500.0
+240,Ático en Aldaia,Aldaia,,Piso,Ático en Aldaia,3.0,135,2.0,,"Os presentamos este precioso ático dúplex seminuevo  con garaje y trastero, hablamos de un ático dúplex que tiene toda la vivienda...",['Piso'],Sí,228000.0
+241,Piso en Barrio Cristo,Aldaia,,Piso,Piso en Barrio Cristo,3.0,100,2.0,4ª planta,"Espectacular vivienda en el barrio del cristo  de tres habitaciones , con dos baños uno en suite, salon comedor con vistas, cocina...",['Piso'],No,149000.0
+242,Chalet en La Canyada - La Cañada,La Canyada - La Cañada (Paterna),Paterna,Chalet,Chalet en La Canyada - La Cañada,4.0,426,3.0,,Exclusiva propiedad situada en la cañada. La obra ya ha sido iniciada y está prevista que termine en 9 meses aproximadamente. Por ...,['Chalet'],No,1240000.0
+243,Chalet en Cruz de Gracia,La Canyada - La Cañada (Paterna),Paterna,Chalet,Chalet en Cruz de Gracia,,215,,,"¡Bienvenido a la casa de tus sueños en la prestigiosa urbanización de cruz de gracia! 
+Licencias solicitadas .&nbsp;
+La casa aun n...",['Chalet'],No,890000.0
+244,Chalet en Centre,Centre (Paterna),Paterna,Chalet,Chalet en Centre,6.0,790,6.0,,Spainhomeluxury.com presenta :  una propiedad merecedora de todos los artículos y fotografías que se han publicado ya sobre ella e...,['Chalet'],No,1900000.0
+245,Piso en Carrer de les Eres,Centre (Paterna),Paterna,Piso,Piso en Carrer de les Eres,3.0,125,2.0,1ª planta,"Piso de 3 habitaciones con ascensor y garaje en paterna
+E l piso está primera planta con ascensor y orientación sureste.
+Está situ...",['Piso'],Sí,230000.0
+246,Piso en Zona Polideportivo,Quart de Poblet,,Piso,Piso en Zona Polideportivo,3.0,90,,3ª planta,"Piso en venta en quart de poblet - con plaza de garaje incluida!
+
+¡Oportunidad única en quart de poblet! Este piso de 88 m², situa...",['Piso'],Sí,185000.0
+247,Piso en Carrer 30,La Canyada - La Cañada (Paterna),Paterna,Piso,"Piso en Carrer 30, 32",3.0,104,2.0,,Tipo 10. Piso en una finca de obra nueva de 104 m² de superficie construida y emplazado en la zona de paterna. Está dispuesto en 3...,['Piso'],No,280000.0
+248,Casa en La Canyada - La Cañada,La Canyada - La Cañada (Paterna),Paterna,Casa,Casa en La Canyada - La Cañada,6.0,487,4.0,,En una de las zonas más demandadas de el plantio encontramos este amplio y funcional inmueble. Con una distribución de pasillo cir...,['Casa'],No,890000.0
+249,Casa en La Canyada - La Cañada,La Canyada - La Cañada (Paterna),Paterna,Casa,Casa en La Canyada - La Cañada,4.0,325,3.0,,"Sobre una parcela de mas de 1.200m² encontramos esta estupenda vivienda, rodeada de vegetación que destaca por su luminosidad, amp...",['Casa'],No,625000.0
+250,Casa en Carrer de José María Martínez Aviñó,Alameda Parc (Manises),Manises,Casa,Casa en Carrer de José María Martínez Aviñó,9.0,321,4.0,,"Esta excepcional casa se encuentra en las afueras de la ciudad, en un entorno tranquilo y cercano al núcleo urbano. Con 321 m² dis...",['Casa'],No,350000.0
+251,Chalet en La Cañada,La Canyada - La Cañada (Paterna),Paterna,Chalet,Chalet en La Cañada,6.0,428,4.0,,"Serenidad, confort y amplios espacios te esperan para convertirse en tu futuro hogar. Una vivienda singular y exclusiva que destac...",['Chalet'],No,1000000.0
+252,Piso en calle de la Estación,Quart de Poblet,,Piso,Piso en calle de la Estación,2.0,92,,1ª planta,""" "" "" "" "" grupo inmobiliario selling house te propone una gran oportunidad "" "" "" "" ""
+
+¡Descubre el encanto de vivir en quart de po...",['Piso'],No,198000.0
+253,Casa en La Canyada - La Cañada,La Canyada - La Cañada (Paterna),Paterna,Casa,Casa en La Canyada - La Cañada,5.0,586,5.0,,"Vivienda de espacios amplios distribuida en semi alturas, construida sobre una parcela esquinera de 850 metros. Accediendo a la ca...",['Casa'],No,650000.0
+254,Casa en Ambulatorio,Quart de Poblet,,Casa,Casa en Ambulatorio,8.0,362,4.0,,"Nmobiliaria servival, ref .30v_c2: casa independiente en el centro de quart de poblet de dos  alturas y distribuida en planta baja...",['Casa'],No,245000.0
+255,Piso en calle de Blas Villa,Santa Rita-Alborgí (Paterna),Paterna,Piso,Piso en calle de Blas Villa,,47,,,"Actualmente, la vivienda está alquilada hasta 2029, lo que la convierte en una excelente opción para quienes buscan una inversión ...",['Piso'],No,128000.0
+256,Chalet en Montecañada,La Canyada - La Cañada (Paterna),Paterna,Chalet,Chalet en Montecañada,4.0,268,4.0,,¡Descubre la joya de montecañada! Esta impresionante casa/chalet independiente de una sola planta combina diseño moderno y funcion...,['Chalet'],No,890000.0
+257,Piso en Zona Primero de Mayo,Quart de Poblet,,Piso,Piso en Zona Primero de Mayo,3.0,52,,2ª planta,"¡Oportunidad única de adquirir tu hogar en quart de poblet!
+
+Este acogedor piso, situado en una finca del año 1965, está a la vent...",['Piso'],No,110000.0
+258,Piso en Carrer de la Baixada del Riu,Centre (Manises),Manises,Piso,Piso en Carrer de la Baixada del Riu,14.0,150,2.0,,"Bienvenidos a este encantador dúplex muy luminoso de 150m² ubicado en manises, en la deseada zona de faitanar. Construido en el añ...",['Piso'],No,240000.0
+259,Piso en calle de los Pins,Santa Rita-Alborgí (Paterna),Paterna,Piso,"Piso en calle de los Pins, 3",3.0,110,2.0,2ª planta,"Vivienda no visitable por estar okupada.
+
+El inmueble se vende en el estado de ocupación actual.",['Piso'],No,175000.0
+260,Casa en La Canyada - La Cañada,La Canyada - La Cañada (Paterna),Paterna,Casa,Casa en La Canyada - La Cañada,6.0,359,3.0,,"Sobre una parcela de más de 1.000m² encontramos este unifamiliar con un encanto especial, que destaca por sus buenas calidades, su...",['Casa'],No,649000.0
+261,Piso en Quart de Poblet,Quart de Poblet,,Piso,Piso en Quart de Poblet,2.0,69,,5ª planta,"¡Atención inversores! """"""""""""""""""""""vivienda con inquilino""""""""""""""""""""""esta es tu oportunidad para adquirir un inmueble con una rentabi...",['Piso'],No,86000.0
+262,Ático en Santa Rita-Alborgí,Santa Rita-Alborgí (Paterna),Paterna,Piso,Ático en Santa Rita-Alborgí,3.0,85,2.0,,¡No pierdas la oportunidad de vivir en este maravilloso ático en el corazón de paterna! Ubicado en una finca bien conservada y tra...,['Piso'],No,167500.0
+263,Chalet en Cruz de Gracia,La Canyada - La Cañada (Paterna),Paterna,Chalet,Chalet en Cruz de Gracia,16.0,705,16.0,,"Inmueble ubicado en la urbanización cruz de gracia en valencia, con una magnífica parcela de 2674,85 m² ideales para
+Una remodelac...",['Chalet'],No,1250000.0
+265,Piso en Carrer de Francisco Valldecabres,El Mercat (Manises),Manises,Piso,Piso en Carrer de Francisco Valldecabres,2.0,58,,4ª planta,"+inmoplaza albal++ te ofrece este exclusivo piso en venta en excelente zona de manises.
+
+Te presentamos este encantador piso en 4ª...",['Piso'],No,69900.0
+266,Chalet en Carrer 302,La Canyada - La Cañada (Paterna),Paterna,Chalet,"Chalet en Carrer 302, 28",5.0,428,4.0,,"Serenidad, confort y amplios espacios te esperan para convertirse en tu futuro hogar. Una vivienda singular y exclusiva que destac...",['Chalet'],No,1000000.0
+267,Casa en La Canyada - La Cañada,La Canyada - La Cañada (Paterna),Paterna,Casa,Casa en La Canyada - La Cañada,5.0,350,4.0,,"Enclavada en una de las mejores zonas de la cañada y sobre una parcela esquinera de casi 900 m², esta vivienda atemporal destaca p...",['Casa'],No,785000.0
+268,Chalet en La Cañada,La Canyada - La Cañada (Paterna),Paterna,Chalet,Chalet en La Cañada,5.0,345,4.0,,"**casa/chalet independiente en venta en la cañada, el plantío**
+
+¡Descubre el hogar de tus sueños en el corazón de la exclusiva ur...",['Chalet'],No,870000.0
+269,Piso en Aldaia,Aldaia,,Piso,Piso en Aldaia,3.0,89,,,"Tecnocasa alaquas gestiona en exclusiva. Vivienda ubicada en edifico sin ascensor, consta de 3 dormitorios 2 de ellos son dobles, ...",['Piso'],No,109500.0
+270,Piso en Grupo de Belén,Santa Rita-Alborgí (Paterna),Paterna,Piso,"Piso en Grupo de Belén, nº 13",3.0,79,,2ª planta,"Inmueble en periodo de subasta precio de salida 90.000€ hasta el 31/12/2024
+Inmueble de banco
+Sin comision inmobiliaria
+Inmobiliar...",['Piso'],No,90000.0
+271,Casa rústica en Alameda Parc,Alameda Parc (Manises),Manises,Casa,Casa rústica en Alameda Parc,6.0,723,3.0,,Esta bonita propiedad cuenta con un estilo único que mezcla diseño actual con esencia rural- manisera. La finca está rodeada de 27...,['Casa'],No,1100000.0
+273,Piso en Carrer de Rodrigo Botet,El Mercat (Manises),Manises,Piso,Piso en Carrer de Rodrigo Botet,4.0,73,,5ª planta,"007rbo109 exterior con balcón junto al mercado municpial 
+
+Financiación hasta 100% (sujeto a aprobación por entidades bancarias)
+
+...",['Piso'],No,109000.0
+274,Piso en Carrer 30,La Canyada - La Cañada (Paterna),Paterna,Piso,"Piso en Carrer 30, 32",2.0,97,,,Tipo 1. Piso en un inmueble de obra nueva de 97 m² de superficie construida y situado en la zona de paterna. Está estructurado en ...,['Piso'],No,230000.0
+275,Piso en Grupo de La Merced,Centre (Paterna),Paterna,Piso,Piso en Grupo de La Merced,2.0,55,,,"Funcional piso en paterna, valencia, perfecto para parejas. El inmueble cuenta con una superficie de 54 m² construidos distribuido...",['Piso'],No,51000.0
+276,Chalet en Casas Verdes-Mas del Rosari,Casas Verdes-Mas del Rosari (Paterna),Paterna,Casa,Chalet en Casas Verdes-Mas del Rosari,5.0,356,4.0,,Spain home luxury le presenta :   chalet individual situado en la urbanización más segura de la provincia de valencia.   Polidepor...,['Casa'],No,788500.0
+277,Piso en Carrer de les Roses,Centre (Manises),Manises,Piso,"Piso en Carrer de les Roses, 20",3.0,114,2.0,3ª planta,"Escalera 5-3ºb. Piso en una finca de obra nueva de 114 m² de superficie construida y emplazado en la zona de manises, posicionado ...",['Piso'],No,249500.0
+278,Ático en Passeig del Penyal d'Ifach,Casas Verdes-Mas del Rosari (Paterna),Paterna,Piso,Ático en Passeig del Penyal d'Ifach,2.0,122,2.0,,Este impresionante ático en venta en paterna se encuentra en la zona de casas verdes-mas del rosari. Con una superficie total de 1...,['Piso'],No,260000.0
+279,Chalet en Carrer 232,La Canyada - La Cañada (Paterna),Paterna,Chalet,Chalet en Carrer 232,4.0,279,3.0,,"Chalet con 476 metros de parcela y 279 metros construidos, ubicado en la urbanización ""el plantío"" (paterna), encontramos este esp...",['Chalet'],No,650000.0
+280,Casa en El Mercat,El Mercat (Manises),Manises,Casa,Casa en El Mercat,6.0,200,3.0,,"¡Oportunidad en manises! Casa con múltiples posibilidades
+
+En pleno centro de manises, en la plaza de mayo, se vende esta encantad...",['Casa'],No,205000.0
+281,Piso en Carrer de Rodrigo Botet,El Mercat (Manises),Manises,Piso,Piso en Carrer de Rodrigo Botet,4.0,72,,5ª planta,"007rbo109 exterior con balcón junto al mercado municpial 
+
+Financiación hasta 100% (sujeto a aprobación por entidades bancarias)
+
+...",['Piso'],No,109000.0
+282,Piso en calle de Vicente Cardona,Centre (Paterna),Paterna,Piso,Piso en calle de Vicente Cardona,4.0,90,2.0,1ª planta,"Se vende vivienda reformada de 90 m² en pleno centro de paterna, zona del mercado. La propiedad dispone de 4 habitaciones, de las ...",['Piso'],No,193000.0
+283,Casa en calle de Pablo Picasso,Quart de Poblet,,Casa,Casa en calle de Pablo Picasso,4.0,171,,,Mies inmobiliaria vende en exclusiva - estupenda vivienda para rehabilitar con 129 m² construidos en una parcela de 171m² en una d...,['Casa'],No,90000.0
+284,Piso en Campamento,Centre (Paterna),Paterna,Piso,Piso en Campamento,2.0,80,2.0,,"***expercasa paterna*** les presenta en exclusiva este magnífico bajo completamente reformado a estrenar en campamento. 
+Este espe...",['Piso'],No,159500.0
+285,Ático en calle de los Molinos,Santa Rita-Alborgí (Paterna),Paterna,Piso,"Ático en calle de los Molinos,  s/n",3.0,190,2.0,,"Tipo b. 10º-38. Ático en un inmueble de obra nueva de 190 m² de superficie construida y situado en la zona de paterna, acomodado e...",['Piso'],No,359000.0
+286,Casa en Aldaia,Aldaia,,Casa,Casa en Aldaia,7.0,240,3.0,,"Se vende casa tradicional en el centro de aldaia, en condiciones para reformar.
+El solar permite edificar planta baja más cuatro a...",['Casa'],No,185000.0
+288,Piso en calle del Maestro Serrano,Centre (Paterna),Paterna,Piso,Piso en calle del Maestro Serrano,,44,,3ª planta,"Inversores. Piso ocupado, no se puede visitar. Esta es una oportunidad exclusiva para aquellos inversores que buscan una propiedad...",['Piso'],No,30700.0
+289,Piso en calle de Blas Villa,Santa Rita-Alborgí (Paterna),Paterna,Piso,Piso en calle de Blas Villa,,63,,,"Actualmente, la propiedad está alquilada hasta 2027, lo que la convierte en una excelente oportunidad para quienes buscan una inve...",['Piso'],No,132000.0
+290,Piso en Carrer de Federico Garcia Lorca,Centre (Paterna),Paterna,Piso,"Piso en Carrer de Federico Garcia Lorca, 38",2.0,67,,2ª planta,Vivienda no visitable por encotrarse okupada.,['Piso'],No,27335.0
+291,Dúplex en calle Peñon de Ifach,Barrio del Cristo (Aldaia),Aldaia,Piso,Dúplex en calle Peñon de Ifach,3.0,112,2.0,2ª planta,"Este espectacular dúplex en aldaia combina diseño moderno y funcionalidad en una ubicación privilegiada. Al entrar, te recibe un s...",['Piso'],No,190000.0
+292,Casa en Aldaia,Aldaia,,Casa,Casa en Aldaia,3.0,240,,,"Se vende casa con 180 metros de solar, y posibilidad de construcción de 4 alturas, más planta baja.
+La casa está situada en el cen...",['Casa'],No,185000.0
+293,Chalet en calle 433,La Canyada - La Cañada (Paterna),Paterna,Chalet,Chalet en calle 433,,275,,,"Descubre este encantador chalet ubicado en la tranquila zona de la cañada, en paterna. Con una parcela de 275 m² y una vivienda de...",['Chalet'],No,280000.0
+294,Piso en Miguel Hernandez,Aldaia,,Piso,Piso en Miguel Hernandez,4.0,113,2.0,1ª planta,"Este encantador piso en aldaia es perfecto para familias o aquellos que buscan espacio y comodidad. Con un total de 4 dormitorios,...",['Piso'],No,149990.0
+295,Piso en calle Francesc Ferrer Pastor,El Mercat (Manises),Manises,Piso,"Piso en calle Francesc Ferrer Pastor,  s/n",3.0,100,2.0,1ª planta,"Planta 1, Escalera 1, Puerta A.  Piso en un edificio de obra nueva de 100 m2 de superficie construida y ubicado en la zona de Soto de la Vega, enclavado en planta 3. Está distribuido en 3 habitaciones, 2 baños completos y terraza. Incluye extras como garaje y trastero.",['Piso'],Sí,255000.0
+296,Ático en Carrer de les Roses,Centre (Manises),Manises,Piso,"Ático en Carrer de les Roses, 20",3.0,94,2.0,,"Escalera 2-6º(ático)-a. Ático en un edificio de obra nueva de 94 m² de superficie construida y ubicado en la zona de manises, encl...",['Piso'],No,295000.0
+297,Chalet en Carrer Fumarell,Zona Aeroport (Manises),Manises,Chalet,Chalet en Carrer Fumarell,7.0,344,3.0,,"""grupo inmobiliario selling house te propone una gran oportunidad ""
+
+Magnífico chalet construido en el año 2000 con terreno urbano...",['Chalet'],No,350000.0
+299,Piso en calle calle Nou Doctubre,Santa Rita-Alborgí (Paterna),Paterna,Piso,Piso en calle calle Nou Doctubre,3.0,89,,,"Excelente piso de tres dormitorios, un ba&ntilde;o y patio. Se encuentra en la planta baja de un edificio residencial de cuatro pl...",['Piso'],No,82000.0
+300,Casa en Carrer Major,Centre (Paterna),Paterna,Casa,Casa en Carrer Major,4.0,599,,,"Casa en paterna ideal ubicada en el centro  para construir la casa de tus sueños  con 600m de terreno, 240m de vivienda, 4 habitac...",['Casa'],No,350000.0
+301,Piso en Centre,Centre (Paterna),Paterna,Piso,Piso en Centre,,100,2.0,,"¡Descubre tu nuevo hogar en este encantador piso de 100 m² construidos! Situado en un edificio con ascensor y orientación sur, est...",['Piso'],No,177000.0
+302,Piso en Barrio Cristo,Aldaia,,Piso,Piso en Barrio Cristo,3.0,103,2.0,,"Os presentamos esta vivienda semi-nueva ubicada en el barrio del cristo en aldaia, valencia, es una opción ideal para quienes busc...",['Piso'],No,170000.0
+304,Piso en calle Rigoberta Menchú,Aldaia,,Piso,Piso en calle Rigoberta Menchú,3.0,108,2.0,1ª planta,"Si estás buscando un hogar cómodo, bien ubicado y lleno de comodidades, ¡Este piso es para ti! Situado en una de las zonas más cén...",['Piso'],No,200000.0
+305,Casa en A 5 Minutos del Centro de Paterna,Casas Verdes-Mas del Rosari (Paterna),Paterna,Casa,Casa en A 5 Minutos del Centro de Paterna,6.0,334,2.0,,"Descubre este magnífico chalet independiente en paterna, una propiedad única en una gran parcela de más de 1.400 m² que ofrece un ...",['Casa'],No,790000.0
+306,Casa en Aldaia,Aldaia,,Casa,Casa en Aldaia,4.0,110,,,"Ven a descubrir lugares que esconden sorpresas muy cerca de ti , si estás en búsqueda de un hogar independiente y te apetece dispo...",['Casa'],No,330000.0
+307,Casa en Aldaia,Aldaia,,Casa,Casa en Aldaia,2.0,240,2.0,,"Se vende solar en aldaia urbano y edificable.
+Se vende casa como solar para construcción de sotano, planta baja, dos alturas y áti...",['Casa'],No,125000.0
+309,Piso en Carrer de les Roses,Centre (Manises),Manises,Piso,"Piso en Carrer de les Roses, 20",3.0,114,3.0,4ª planta,"Obras ya iniciadas
+En rosas20 te ofrecemos una estupenda oportunidad de mejorar tu calidad de vida disfrutando de un entorno armon...",['Piso'],No,254000.0
+310,Chalet en La Canyada - La Cañada,La Canyada - La Cañada (Paterna),Paterna,Chalet,Chalet en La Canyada - La Cañada,4.0,540,3.0,,Spain home luxury presenta :   excepcional chalet de lujo en una de las mejores zonas de montecañada. Tiene una parcela de 2.080m²...,['Chalet'],No,1490000.0
+311,Ático en Barrio Cristo,Aldaia,,Piso,Ático en Barrio Cristo,3.0,158,2.0,,"Se vende fantastico atico duplex  con orientacion este con fachada caravista  del año 2006 y con amplia terraza de casi 70m². 
+Pri...",['Piso'],No,190000.0
+312,Piso en calle de San Sebastián,Santa Rita-Alborgí (Paterna),Paterna,Piso,Piso en calle de San Sebastián,,58,,,¿Buscas tu nuevo hogar en paterna? Nosotros lo tenemos.  Excelente oportunidad de adquirir este piso agradable y luminoso que ofre...,['Piso'],No,76000.0
+313,Casa adosada en La Canyada - La Cañada,La Canyada - La Cañada (Paterna),Paterna,Casa,Casa adosada en La Canyada - La Cañada,4.0,189,2.0,,"Espectacular adosado en residencial con piscinas en la urbanización  el plantio de la cañada.
+
+Muy bien ubicado, próximo al colegi...",['Casa'],No,429000.0
+314,Piso en Alameda Park,Alameda Parc (Manises),Manises,Piso,Piso en Alameda Park,3.0,107,2.0,2ª planta,"Ponemos a su disposicion con ref: 102020129 vivienda en zona alameda park, distribuida en 3 dormitorios, 2 baños cocina independie...",['Piso'],No,187000.0
+315,Ático en Barrio Cristo,Aldaia,,Piso,Ático en Barrio Cristo,3.0,112,2.0,,"008pdi190. Amplio ático seminuevo con barbacoa y ascensor
+
+Este ático combina lujo, comodidad y una ubicación privilegiada, creand...",['Piso'],No,189900.0
+316,Piso en calle de los Molinos,Santa Rita-Alborgí (Paterna),Paterna,Piso,"Piso en calle de los Molinos,  s/n",3.0,115,2.0,9ª planta,"Tipo c. 9º-36. Piso en un inmueble de obra nueva de 115 m² de superficie construida y situado en la zona de paterna, acomodado en ...",['Piso'],No,277000.0
+318,Piso en calle Sant Domenec de Guzman,La Canyada - La Cañada (Paterna),Paterna,Piso,Piso en calle Sant Domenec de Guzman,3.0,129,2.0,1ª planta,Vivienda de protección oficial. Oportunidad de adquirir una vivienda junto a casas verdes en calle sant domenec de guzman en la lo...,['Piso'],No,185000.0
+319,Piso en calle de los Santos Justo y Pastor,El Mercat (Manises),Manises,Piso,Piso en calle de los Santos Justo y Pastor,2.0,53,,4ª planta,"Sin comisiones de agencia. Piso ubicado en la calle sants just i pastor de manises, muy cerca del aeropuerto. La vivienda se ubica...",['Piso'],No,60000.0
+320,Casa en Paterna,Centre (Paterna),Paterna,Casa,Casa en Paterna,3.0,224,2.0,,"***expercasa paterna**** les presenta en exclusiva esta magnífica casa independiente con bajo comercial en venta en zona alborgí, ...",['Casa'],No,310000.0
+321,Piso en Carrer de la Llibertat,Casas Verdes-Mas del Rosari (Paterna),Paterna,Piso,Piso en Carrer de la Llibertat,3.0,86,,1ª planta,"Inmueble ocupado de manera ilegal.
+
+Piso exterior con 3 dormitorios, cocina, salón comedor y un baño.
+
+“el precio anunciado no es ...",['Piso'],No,62000.0
+322,Piso en Carrer Miguel Hernández,Centre (Paterna),Paterna,Piso,"Piso en Carrer Miguel Hernández, 10",3.0,88,2.0,,Vivienda 10. Piso en una finca de obra nueva de 88 m² de superficie construida y emplazado en la zona de paterna. Está dispuesto e...,['Piso'],No,244000.0
+323,Casa en Carrer de la Constitució,Quart de Poblet,,Casa,Casa en Carrer de la Constitució,2.0,90,,,"¡Bienvenido a la casa de tus sueños! Esta encantadora vivienda, recientemente reformada, ofrece comodidad y estilo en cada rincón....",['Casa'],No,189000.0
+325,Chalet en La Canyada - La Cañada,La Canyada - La Cañada (Paterna),Paterna,Chalet,Chalet en La Canyada - La Cañada,4.0,105,,,Cerca del centro de la cañada encontramos esta acogedora vivienda con una parcela privada de 330 m² aproximadamente y una vivienda...,['Chalet'],No,285000.0
+326,Piso en calle Francesc Ferrer Pastor,El Mercat (Manises),Manises,Piso,"Piso en calle Francesc Ferrer Pastor,  s/n",2.0,79,2.0,4ª planta,"Planta 4, Escalera 3, Puerta C.  Piso en un edificio de obra nueva de 79 m2 de superficie construida y ubicado en la zona de Soto de la Vega, enclavado en planta 4. Está distribuido en 2 habitaciones, 2 baños completos y terraza. Incluye extras como garaje y trastero.",['Piso'],Sí,215000.0
+327,Piso en Centre,Centre (Paterna),Paterna,Piso,Piso en Centre,3.0,85,,,"Increible vivienda reformada junto al parque de alborgi en la localidad de paterna.
+Piso en planta baja sin ascensor, 85 mts, 3 ha...",['Piso'],No,149000.0
+328,Piso en Aldi,Aldaia,,Piso,Piso en Aldi,3.0,93,2.0,2ª planta,"Estupendísima vivienda de vpo del año 2.000, situada en un segundo piso con ascensor, esquinero siendo todo exterior, con unos 74,...",['Piso'],No,175000.0
+329,Piso en Centre,Centre (Manises),Manises,Piso,Piso en Centre,2.0,70,,,"Piso en cuarta altura sin ascensor, 70 mts, 2 habitaciones, 1 baño en buen estado con ducha, cocina en buen estado, exterior, suel...",['Piso'],No,120000.0
+330,Chalet en Centre,Centre (Manises),Manises,Chalet,Chalet en Centre,4.0,300,2.0,,"Estupenda finca con vivienda en el centro de la urbanizacion la malla parada de autobus en la misma puerta, la parcela consta de 1...",['Chalet'],No,480000.0
+331,Chalet unifamiliar en calle Grau,Alameda Parc (Manises),Manises,Chalet,Chalet unifamiliar en calle Grau,6.0,961,3.0,,"""grupo inmobiliario selling house te propone una gran oportunidad ""
+
+Magnífico chalet independiente ubicado en manises, se encuent...",['Chalet'],No,370000.0
+333,Piso en calle de los Pins,Santa Rita-Alborgí (Paterna),Paterna,Piso,Piso en calle de los Pins,4.0,136,,,"Esta propiedad está ocupada por terceros. 
+No se puede visitar. 
+No apta para compradores que requieran financiación hipotecaria (...",['Piso'],No,175000.0
+334,Piso en calle de la Orenga,Valterna-Terramelar (Paterna),Paterna,Piso,Piso en calle de la Orenga,3.0,128,2.0,1ª planta,Este piso en venta en paterna es una excelente oportunidad para adquirir una vivienda de 128 m² en buen estado. Se encuentra en un...,['Piso'],No,299000.0
+335,Piso en Carrer de les Roses,Centre (Manises),Manises,Piso,"Piso en Carrer de les Roses, 20",,106,,6ª planta,"Inicio obra febrero 2024
+
+En rosas20 te ofrecemos una estupenda oportunidad de mejorar tu calidad de vida disfrutando de un entorn...",['Piso'],No,222000.0
+336,Ático en Barrio Cristo,Aldaia,,Piso,Ático en Barrio Cristo,3.0,113,2.0,,"008pdi190. Amplio ático seminuevo con barbacoa y ascensor
+
+Este ático combina lujo, comodidad y una ubicación privilegiada, creand...",['Piso'],No,189900.0
+337,Casa en Alameda Park,Alameda Parc (Manises),Manises,Casa,Casa en Alameda Park,4.0,175,3.0,,¡Oportunidad única en manises! Este encantador chalet adosado de 175 m² te enamorará desde el primer momento. Distribuido en tres ...,['Casa'],No,280000.0
+338,Piso en calle de los Molinos,Santa Rita-Alborgí (Paterna),Paterna,Piso,"Piso en calle de los Molinos,  s/n",3.0,114,2.0,8ª planta,"Tipo b. 8º. Piso en un inmueble de obra nueva de 114 m² de superficie construida y situado en la zona de paterna, acomodado en pla...",['Piso'],No,265500.0
+340,Casa en calle 340,La Canyada - La Cañada (Paterna),Paterna,Casa,Casa en calle 340,4.0,325,3.0,,"¿Buscas un hogar espacioso, luminoso y lleno de confort en una zona exclusiva de valencia? ¡Este chalet de 325 m² en la cañada, pa...",['Casa'],No,538000.0
+341,Casa en Pozo del Agua,Aldaia,,Casa,Casa en Pozo del Agua,4.0,322,,,"Os presentamos esta casa de campo con terreno en la zona de aldaia, a un paso de todos los servicios bancos, restaurantes,  comerc...",['Casa'],No,300000.0
+342,Casa en Centro,Quart de Poblet,,Casa,Casa en Centro,5.0,300,2.0,,"Estas buscando una casa de pueblo señorial, no busques más, te ofrecemos esta magnífica casa de unos 306m² de solar.
+Actualmente l...",['Casa'],No,300000.0
+343,Piso en Carrer de la Mare de Déu del Pilar,Centre (Paterna),Paterna,Piso,"Piso en Carrer de la Mare de Déu del Pilar, 1",3.0,56,,,Vivienda antigua para reformar completamente. Actualmente está alquilada hasta abril de 2028. Ideal para personas que quieran inve...,['Piso'],No,54000.0
+345,Piso en Aldaia,Aldaia,,Piso,Piso en Aldaia,3.0,105,2.0,1ª planta,"*** senyera inmobiliaria *** pone en exclusiva a la venta hermoso ático con reforma a estrenar en aldaia.
+
+Una obra maestra de inv...",['Piso'],No,249000.0
+346,Casa adosada en Barrio del Cristo,Quart de Poblet,,Casa,Casa adosada en Barrio del Cristo,3.0,142,2.0,,"Expercasa quart de poblet presenta este espectacular adosado por 298.000 euros. 
+
+Ubicado en el barrio del cristo.
+
+Con una superf...",['Casa'],No,285000.0
+348,Piso en Centre,Centre (Manises),Manises,Piso,Piso en Centre,4.0,73,,,"Gran oportunidad junto al mercado los pinos de la localidad de manises.
+Vivienda en quinta altura, exterior y sin ascensor. 73 m²...",['Piso'],No,114000.0
+350,Piso en Carrer de Roger de Flor,Quart de Poblet,,Piso,"Piso en Carrer de Roger de Flor, 1",3.0,100,2.0,1ª planta,"Vivienda no visitable por estar okupada.
+El inmueble se vende en el estado de ocupación actual.",['Piso'],No,
+351,Piso en Manises - Centro Ciudad,Centre (Manises),Manises,Piso,Piso en Manises - Centro Ciudad,4.0,122,,1ª planta,"J 9840 ref . Se vende piso reformado en manises  en todo el centro
+
+Disponibilidad inmediata, se puede visitar
+1 planta sin ascens...",['Piso'],No,146000.0
+352,Piso en Centre,Centre (Manises),Manises,Piso,Piso en Centre,,58,,4ª planta,"Este encantador piso en venta se encuentra en el 4º piso del edificio, con una superficie total de 58 m². Cuenta con 1 habitación ...",['Piso'],No,120000.0
+353,Chalet en calle 607,La Canyada - La Cañada (Paterna),Paterna,Chalet,Chalet en calle 607,5.0,550,4.0,,"Bienvenidos a este impresionante chalet de lujo independiente, situado en una extensa parcela de 2400m² y con una superficie const...",['Chalet'],No,1290000.0
+356,Casa en Casco Antiguo,Centre (Manises),Manises,Casa,Casa en Casco Antiguo,4.0,264,2.0,,"Casa independiente en manises centro zona casco antiguo, 264 m², se distribuye en planta baja: habitación amplia, salón comedor co...",['Casa'],No,379000.0
+357,Piso en Carrer de la Melissa,Valterna-Terramelar (Paterna),Paterna,Piso,"Piso en Carrer de la Melissa, 42",3.0,354,2.0,2ª planta,"ESC-C-P2-B. Piso en un inmueble de obra nueva de 354 m2 de superficie construida y situado en la zona de Paterna, acomodado en planta 2. Está estructurado en 3 habitaciones y 2 baños completos. Aporta como extras ascensor, garaje y trastero.",['Piso'],Sí,431000.0
+358,Casa en Avenida de las Cortes Valencianas,Centre (Paterna),Paterna,Casa,Casa en Avenida de las Cortes Valencianas,,193,2.0,,"****expercasa paterna****dispone de una casa de pueblo para reformar en la zona de campamento
+
+El inmueble consta de 193m² constru...",['Casa'],No,189000.0
+359,Chalet en La Cañada,La Canyada - La Cañada (Paterna),Paterna,Chalet,Chalet en La Cañada,3.0,160,2.0,,Esta es una oportunidad excepcional para vivir en una casa espectacular rodeada de naturaleza y tranquilidad. Esta propiedad indep...,['Chalet'],No,379000.0
+360,Piso en Campamento,Centre (Paterna),Paterna,Piso,Piso en Campamento,4.0,89,,4ª planta,"Estupendo piso en paterna, zona de campamento - la salle, a un paso del centro y junto a la estación del metro de campamento, exce...",['Piso'],No,126000.0
+361,Ático en Carrer de les Roses,Centre (Manises),Manises,Piso,"Ático en Carrer de les Roses, 20",2.0,81,2.0,,"Escalera 8-6º(ático)-b. Ático en un inmueble de obra nueva de 81 m² de superficie construida y situado en la zona de manises, acom...",['Piso'],No,280000.0
+362,Chalet en La Cañada,La Canyada - La Cañada (Paterna),Paterna,Chalet,Chalet en La Cañada,4.0,242,3.0,,"Esta es una oportunidad excepcional para vivir en una casa espectacular rodeada de naturaleza y tranquilidad. 
+
+Esta propiedad ind...",['Chalet'],No,510000.0
+364,Chalet pareado en Quart de Poblet,Quart de Poblet,,Chalet,Chalet pareado en Quart de Poblet,4.0,126,,,"Casa de pueblo para derribar de unos 84 m² de solar, esquinera, donde podras levantar planta baja más dos alturas.
+La casa se sitú...",['Chalet'],No,85000.0
+367,Piso en Carrer de Murillo,Centre (Manises),Manises,Piso,Piso en Carrer de Murillo,3.0,75,,,"Te gastaría  encontrar una oportunidad en manises, ? Aquí te presentamos un fabuloso piso para entrar a vivir, bien ubicado junto...",['Piso'],No,137000.0
+368,Ático en Carrer de les Roses,Centre (Manises),Manises,Piso,"Ático en Carrer de les Roses, 20",,58,,,"Escalera 4-6º(ático)-b. Ático en un edificio de obra nueva de 58 m² de superficie construida y ubicado en la zona de manises, encl...",['Piso'],No,220000.0
+369,Chalet en El Plantio,La Canyada - La Cañada (Paterna),Paterna,Chalet,Chalet en El Plantio,4.0,174,2.0,,"En esta amplia parcela de 940 m² se encuentra este encantador chalet de estilo ibicenco, que ofrece 160 m² de vivienda en una sola...",['Chalet'],No,700000.0
