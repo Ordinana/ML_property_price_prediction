@@ -92,3 +92,5 @@ Para ejecutar el sistema de tasación:
 ---
 
 Este proyecto es una base para futuras mejoras en el ámbito de la predicción inmobiliaria, ofreciendo un equilibrio entre técnicas de Machine Learning avanzadas y una experiencia de usuario optimizada.
+
+- ***Presentacion con Gamma:*** https://gamma.app/docs/Tasacion-Automatica-de-Viviendas-para-FuturCasa-62nqt7sw22z685w
