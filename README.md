@@ -1,7 +1,9 @@
 ![alt text](imgs/logo_futurcasa.png)
 # **Sistema de Tasación de Viviendas**
 
-### Este proyecto consiste en el desarrollo de un `**sistema automático de tasación de viviendas basado en técnicas de Machine Learning**`. Con un `***modelo predictivo entrenado* con datos de viviendas reales, el sistema estima el precio de una propiedad en función de sus características**`. Muy pronto el sistema estará desplegado en una aplicación interactiva mediante **Streamlit**, donde los usuarios podrán introducir los detalles de una vivienda y obtener una estimación junto con intervalos de confianza.
+### Este proyecto consiste en el desarrollo de un `sistema automático de tasación de viviendas basado en técnicas de Machine Learning`. Con un `modelo predictivo entrenado con datos de viviendas reales, el sistema estima el precio de una propiedad en función de sus características`. 
+
+### Muy pronto el sistema estará desplegado en una aplicación interactiva mediante **Streamlit**, donde los usuarios podrán introducir los detalles de una vivienda y obtener una estimación junto con intervalos de confianza.
 
 ---
 
