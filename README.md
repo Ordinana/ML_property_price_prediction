@@ -1,26 +1,24 @@
 ![alt text](imgs/logo_futurcasa.png)
 # **Sistema de Tasación de Viviendas**
 
-### Este proyecto consiste en el desarrollo de un **sistema automático de tasación de viviendas basado en técnicas de Machine Learning**. Con un ***modelo predictivo entrenado* con datos de viviendas reales, el sistema estima el precio de una propiedad en función de sus características**. Muy pronto el sistema estará desplegado en una aplicación interactiva mediante **Streamlit**, donde los usuarios podrán introducir los detalles de una vivienda y obtener una estimación junto con intervalos de confianza.
+### Este proyecto consiste en el desarrollo de un `**sistema automático de tasación de viviendas basado en técnicas de Machine Learning**`. Con un `***modelo predictivo entrenado* con datos de viviendas reales, el sistema estima el precio de una propiedad en función de sus características**`. Muy pronto el sistema estará desplegado en una aplicación interactiva mediante **Streamlit**, donde los usuarios podrán introducir los detalles de una vivienda y obtener una estimación junto con intervalos de confianza.
 
 ---
 
 ## **1. Motivación**
 
-### El objetivo de este proyecto es proporcionar una herramienta rápida y precisa para estimar el precio de una vivienda, facilitando el trabajo a inmobiliarias, compradores y vendedores. Se pretende sustituir la intuición y los cálculos manuales por una metodología científica y datos.
+### El objetivo de este proyecto es proporcionar una `herramienta rápida y precisa para estimar el precio de una vivienda`, facilitando el trabajo a inmobiliarias, compradores y vendedores. Se pretende sustituir la intuición y los cálculos manuales por una metodología científica y datos.
 
 ---
 
 ## **2. Datos utilizados**
 
-### El conjunto de datos incluye información de más de 1,100 viviendas, con un rango de precios entre **11,800 y 950,000 euros**. Las principales columnas incluyen:
+### El conjunto de datos incluye información de más de 1,100 viviendas, con un tope en el precio de **950,000 euros**. Las principales columnas incluyen:
 
 - ### **Municipio:** Localización de la vivienda.
 - ### **Tipo de vivienda:** Casa, piso, chalet, etc.
 - ### **Número de habitaciones, aseos y metros cuadrados.**
 - ### **Extras:** Garaje, terraza, aire acondicionado, zona centro, entre otros.
-
-### Se eliminaron variables no relevantes como "piscina", "ascensor" y "reformado", y se llevaron a cabo tareas de codificación, normalización y eliminación de outliers.
 
 ---
 
@@ -38,11 +36,11 @@
 - ### **RMSE:** 79,853.99
 - ### **R2:** 0.8041 (80.41%)
 
-#### Estas métricas indican que el modelo tiene una buena capacidad predictiva, aunque con margen de mejora en el futuro.
+#### `Estas métricas indican que el modelo tiene una buena capacidad predictiva`, aunque con margen de mejora en el futuro.
 
 ---
 
-## *4. Desarrollo de la aplicación*
+## **4. Desarrollo de la aplicación**
 
 ### **La aplicación con desarrollo en **Streamlit** permitirá la interacción del usuario**. Algunas de sus características clave:
 
@@ -60,14 +58,14 @@
 ## **5. Conclusiones y próximos pasos**
 
 ### Conclusiones:
-- ### El modelo ofrece estimaciones razonablemente precisas, aunque se detectaron relaciones inesperadas en algunas variables, como "Zona centro" y "Planta".
-- ### Estas inconsistencias podrían deberse a outliers o falta de datos relevantes.
+- ### El modelo ofrece estimaciones razonablemente precisas.
+- ### Alguna inconsistencias están en proceso de mejora continuo.
 
 ### Próximos pasos:
-1. **Reentrenar el modelo:** Incluir nuevas transformaciones basadas en insights obtenidos (como eliminar relaciones irrelevantes).
-2. **Ajustes en la aplicación:** Optimizar el flujo para que las opciones sean más intuitivas y flexibles.
-3. **Ampliación del dataset:** Incluir más datos para mejorar la generalización del modelo.
-4. **Despliegue en la nube:** Publicar la aplicación para un acceso público mediante plataformas como **Streamlit Cloud** o **AWS**.
+1. ### **Reentrenar el modelo:** Incluir nuevas transformaciones basadas en insights obtenidos (como eliminar relaciones irrelevantes).
+2. ### **Ajustes en la aplicación:** Optimizar el flujo para que las opciones sean más intuitivas y flexibles.
+3. ### **Ampliación del dataset:** Incluir más datos para mejorar la generalización del modelo.
+4. ### **Despliegue en la nube:** Publicar la aplicación para un acceso público mediante plataformas como **Streamlit Cloud** o **AWS**.
 
 ---
 
