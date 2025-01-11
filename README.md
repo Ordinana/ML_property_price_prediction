@@ -72,6 +72,8 @@
   - ### `Gradient_XGB_model.pkl`: Modelo entrenado.
   - ### `label_encoders.pkl`: Codificadores de variables categóricas.
   - ### `scaler_voting.pkl`: Escalador para normalizar datos.
+  ## **En train.py estará el código del modelo seleccionado** para testearlo y reentrenarlo.
+  ## **En app.py** está disponible la aplicación con Streamlit *(en Localhost)* donde **se podrán testear las predicciones del precio de los inmuebles.**
 
 ---
 <!--
