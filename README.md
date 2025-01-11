@@ -48,11 +48,6 @@
 - ### `Condicionales inteligentes:` Dependiendo del tipo de vivienda, se habilitan o deshabilitan opciones (por ejemplo, "Planta" no aplica para casas o chalets).
 - ### `Resultados detallados:` Precio estimado con intervalos de confianza basados en MAE y MAPE.
 
-### ***Ajustes visuales:***
-- ### Uso de una paleta de colores basada en el logotipo de "FuturCasa".
-- ### Logotipo reducido y centrado.
-- ### Selectores organizados en filas y columnas para mayor claridad.
-
 ---
 
 ## **5. Conclusiones y próximos pasos** 🔜
