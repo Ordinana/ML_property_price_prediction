@@ -57,11 +57,11 @@
 - ### Alguna inconsistencias están en proceso de mejora continuo.
 
 ### *Próximos pasos:*
-### 🔘**Reentrenar el modelo:** Incluir nuevas transformaciones basadas en insights obtenidos (como eliminar relaciones irrelevantes).
-### 🔘**Ajustes en la aplicación:** Optimizar el flujo para que las opciones sean más intuitivas y flexibles.
-### 🔘**Ampliación del dataset:** Incluir más datos para mejorar la generalización del modelo.
-### 🔘**Despliegue en la nube:** Publicar la aplicación para un acceso público mediante plataformas como **Streamlit Cloud** o **AWS**.
-### 🔘**Aplicación interactiva:** Desplegar mediante **Streamlit**, donde los usuarios podrán introducir los detalles de una vivienda y obtener una estimación junto con intervalos de confianza.
+### 🔘`Reentrenar el modelo:` Incluir nuevas transformaciones basadas en insights obtenidos (como eliminar relaciones irrelevantes).
+### 🔘`Ajustes en la aplicación:` Optimizar el flujo para que las opciones sean más intuitivas y flexibles.
+### 🔘`Ampliación del dataset:` Incluir más datos para mejorar la generalización del modelo.
+### 🔘`Despliegue en la nube:` Publicar la aplicación para un acceso público mediante plataformas como **Streamlit Cloud** o **AWS**.
+### 🔘`Aplicación interactiva:` Desplegar mediante **Streamlit**, donde los usuarios podrán introducir los detalles de una vivienda y obtener una estimación junto con intervalos de confianza.
 
 ---
 
