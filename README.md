@@ -67,8 +67,8 @@
 
 ## **6. Requisitos del proyecto** 👌
 
-- **Librerías:** Pandas, Scikit-learn, Matplotlib, Seaborn ,Streamlit
-- **Archivos necesarios:**
+- ### **Librerías:** BeautifulSoup, Pandas, Sklearn, Matplotlib, Seaborn, joblib, Streamlit.
+- ### **Archivos necesarios:**
   - ### `Gradient_XGB_model.pkl`: Modelo entrenado.
   - ### `label_encoders.pkl`: Codificadores de variables categóricas.
   - ### `scaler_voting.pkl`: Escalador para normalizar datos.
